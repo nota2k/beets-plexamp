@@ -6,16 +6,21 @@ import:
     write: yes
     resume: yes
     autotag: yes
+    incremental: yes
+    quiet: yes
+    log: ./log.txt
+
 
 plugins: discogs fromfilename
 discogs:
     user_token: "hyDPKdjAJfqObOYfEPASiinZOTVzWxmSDXHQoMpK"
+    source_weight: 0.0
     index_tracks: yes
 
 paths:
-    default: $artist/[$year]$album%aunique{}/$track $title
+    default: $artist/%if{$year,[$year],''}$album%aunique{}/%if{$track,$track-,''}$title
     singleton: Non-Album/$artist/$title
-    comp: Compilations/$album%aunique{}/$track $title
+    comp: Compilations/$album%aunique{}/%if{$track,$track-,''}$title
 
 ui:
     terminal_width: 80
