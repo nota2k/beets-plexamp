@@ -10,7 +10,7 @@ import:
   # quiet: yes
   log: ./log.txt
 
-plugins: discogs fromfilename bandcamp
+plugins: discogs fromfilename bandcamp web
 
 discogs:
   user_token: "hyDPKdjAJfqObOYfEPASiinZOTVzWxmSDXHQoMpK"
