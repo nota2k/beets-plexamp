@@ -6,20 +6,56 @@ import:
   write: yes
   resume: yes
   autotag: yes
-  # incremental: yes
-  # quiet: yes
+  default_action: apply
+  languages: ['en', 'pl','fr','de']
+  detail: yes
   log: ./log.txt
+  # Nouvelle option pour gérer les VA
+  group_albums: no  # Force l'analyse piste par piste pour certains cas
 
-plugins: discogs fromfilename bandcamp web
+# Configuration spéciale pour les VA
+match:
+  strong_rec_thresh: 0.10
+  medium_rec_thresh: 0.25
+  # Important : permet de traiter les morceaux individuellement
+  singleton_thresh: 0.90
+
+
+plugins: discogs fromfilename bandcamp web duplicates fromfilename inline acousticbrainz mbsync
 
 discogs:
   user_token: "hyDPKdjAJfqObOYfEPASiinZOTVzWxmSDXHQoMpK"
   source_weight: 0.0
   index_tracks: yes
 
+acousticbrainz:
+  auto: yes
+  
+item_fields:
+    clean_title: |         
+      import unicodedata         
+      # Normaliser les caractères Unicode         
+      normalized = unicodedata.normalize('NFKD', title)         
+      return normalized     
+    original_folder: |
+        import os, re         
+        path_str = os.fsdecode(path)         
+        folder_name = os.path.basename(os.path.dirname(path_str))         
+        # Nettoyer le nom du dossier         
+        cleaned = folder_name.replace('VA', '').replace('V.A.', '').replace('va', '').replace('v.a.', '').strip()         
+        # Mettre en forme titre (première lettre de chaque mot en majuscule)         
+        cleaned = cleaned.title()         
+        return cleaned if cleaned else folder_name 
+
+    folder_has_va: |
+        import os
+        path_str = os.fsdecode(path)
+        folder_name = os.path.basename(os.path.dirname(path_str)).lower()
+        return 'VA' in folder_name or 'V.A.' in folder_name or 'va' in folder_name or 'v.a.' in folder_name
 paths:
   default: $artist/%if{$year,[$year],''}$album%aunique{}/%if{$track,$track-,''}$title
   singleton: Non-Album/$artist/$title
+  folder_has_va:true: Various Artists/%if{$album%aunique{},$album%aunique{},$original_folder}/%if{$track,$track-,}$artist-$title
   comp: Compilations/$album%aunique{}/%if{$track,$track-,''}$title
 
 ui:
