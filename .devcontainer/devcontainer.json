@@ -11,7 +11,7 @@
 	},
 	"containerEnv": {
 		"BEETSDIR": "${containerWorkspaceFolder}"
-	},
+	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
