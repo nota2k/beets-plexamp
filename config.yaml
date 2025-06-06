@@ -19,17 +19,18 @@ match:
   medium_rec_thresh: 0.25
   # Important : permet de traiter les morceaux individuellement
   singleton_thresh: 0.90
+  distance_weights:
+    source: 2.0
+    artist: 3.0
+    album: 3.0
+    title: 4.0
 
-
-plugins: discogs fromfilename bandcamp web duplicates fromfilename inline acousticbrainz mbsync
+plugins: discogs fromfilename bandcamp web duplicates fromfilename inline mbsync
 
 discogs:
   user_token: "hyDPKdjAJfqObOYfEPASiinZOTVzWxmSDXHQoMpK"
   source_weight: 0.0
   index_tracks: yes
-
-acousticbrainz:
-  auto: yes
   
 item_fields:
     clean_title: |         
@@ -52,6 +53,49 @@ item_fields:
         path_str = os.fsdecode(path)
         folder_name = os.path.basename(os.path.dirname(path_str)).lower()
         return 'VA' in folder_name or 'V.A.' in folder_name or 'va' in folder_name or 'v.a.' in folder_name
+    has_duplicate_suffix: |
+      import re
+      filename = path.stem
+      patterns = [
+        r'\s*\(copy\)\s*$',
+        r'\s*\(copie\)\s*$', 
+        r'\s*\(\d+\)\s*$',
+        r'\s*-\s*copy\s*$',
+        r'\s*-\s*copie\s*$',
+        r'\s*_copy\s*$',
+        r'\s*_\d+\s*$',
+        r'\s*\[\d+\]\s*$'
+      ]
+      return any(re.search(pattern, filename, re.IGNORECASE) for pattern in patterns)
+    
+    clean_title_for_comparison: |
+      import re, unicodedata
+      clean = unicodedata.normalize('NFKD', title).lower()
+      patterns = [
+        r'\s*\(copy\)\s*$',
+        r'\s*\(copie\)\s*$',
+        r'\s*\(\d+\)\s*$',
+        r'\s*-\s*copy\s*$',
+        r'\s*_copy\s*$',
+        r'\s*_\d+\s*$'
+      ]
+      for pattern in patterns:
+        clean = re.sub(pattern, '', clean)
+      return clean.strip()
+    
+    suspicious_path: |
+      import re
+      path_str = str(path).lower()
+      suspicious_patterns = [
+        r'duplicate',
+        r'doublon', 
+        r'copy',
+        r'copie',
+        r'\(\d+\)',
+        r'_\d+\.',
+        r'\.part\d+\.'
+      ]
+      return any(re.search(pattern, path_str) for pattern in suspicious_patterns)
 paths:
   default: $artist/%if{$year,[$year],''}$album%aunique{}/%if{$track,$track-,''}$title
   singleton: Non-Album/$artist/$title
@@ -84,6 +128,18 @@ ui:
     text_diff_removed: [bold, red]
     text_diff_changed: [bold, red]
     action_description: [white]
+
+duplicates:
+  # Chercher dans toute la bibliothèque, pas seulement par album
+  album: no        # Ne pas grouper par album
+  full: yes        # Chercher dans toute la bibliothèque
+  keys: [artist, title]  # Critères plus larges que mb_trackid
+  tiebreak:
+    items: [bitrate, format, path]  # Critères pour départager
+  # Optionnel : format de sortie
+  format: '$albumartist - $album - $title [$format, $bitrate] - $path'
+
+ 
 # fetchart:
 #     store_source: yes
 #     cover_names: cover
