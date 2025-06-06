@@ -1,53 +1,53 @@
 directory: converted
 library: ./musiclibrary.db
 import:
-    move: no
-    copy: yes
-    write: yes
-    resume: yes
-    autotag: yes
-    incremental: yes
-    quiet: yes
-    log: ./log.txt
+  move: no
+  copy: yes
+  write: yes
+  resume: yes
+  autotag: yes
+  # incremental: yes
+  # quiet: yes
+  log: ./log.txt
 
+plugins: discogs fromfilename bandcamp
 
-plugins: discogs fromfilename
 discogs:
-    user_token: "hyDPKdjAJfqObOYfEPASiinZOTVzWxmSDXHQoMpK"
-    source_weight: 0.0
-    index_tracks: yes
+  user_token: "hyDPKdjAJfqObOYfEPASiinZOTVzWxmSDXHQoMpK"
+  source_weight: 0.0
+  index_tracks: yes
 
 paths:
-    default: $artist/%if{$year,[$year],''}$album%aunique{}/%if{$track,$track-,''}$title
-    singleton: Non-Album/$artist/$title
-    comp: Compilations/$album%aunique{}/%if{$track,$track-,''}$title
+  default: $artist/%if{$year,[$year],''}$album%aunique{}/%if{$track,$track-,''}$title
+  singleton: Non-Album/$artist/$title
+  comp: Compilations/$album%aunique{}/%if{$track,$track-,''}$title
 
 ui:
-    terminal_width: 80
-    length_diff_thresh: 10.0
-    color: yes
-    colors:
-        text_success: [bold, green]
-        text_warning: [bold, yellow]
-        text_error: [bold, red]
-        text_highlight: [bold, red]
-        text_highlight_minor: [white]
-        action_default: [bold, cyan]
-        action: [bold, cyan]
-        text: [normal]
-        text_faint: [faint]
-        import_path: [bold, blue]
-        import_path_items: [bold, blue]
-        added: [green]
-        removed: [red]
-        changed: [yellow]
-        added_highlight: [bold, green]
-        removed_highlight: [bold, red]
-        changed_highlight: [bold, yellow]
-        text_diff_added: [bold, red]
-        text_diff_removed: [bold, red]
-        text_diff_changed: [bold, red]
-        action_description: [white]
+  terminal_width: 80
+  length_diff_thresh: 10.0
+  color: yes
+  colors:
+    text_success: [bold, green]
+    text_warning: [bold, yellow]
+    text_error: [bold, red]
+    text_highlight: [bold, red]
+    text_highlight_minor: [white]
+    action_default: [bold, cyan]
+    action: [bold, cyan]
+    text: [normal]
+    text_faint: [faint]
+    import_path: [bold, blue]
+    import_path_items: [bold, blue]
+    added: [green]
+    removed: [red]
+    changed: [yellow]
+    added_highlight: [bold, green]
+    removed_highlight: [bold, red]
+    changed_highlight: [bold, yellow]
+    text_diff_added: [bold, red]
+    text_diff_removed: [bold, red]
+    text_diff_changed: [bold, red]
+    action_description: [white]
 # fetchart:
 #     store_source: yes
 #     cover_names: cover

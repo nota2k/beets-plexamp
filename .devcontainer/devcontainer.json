@@ -6,9 +6,6 @@
     "build": {
         "dockerfile": "Dockerfile"
     },
-	"features": {
-		"ghcr.io/devcontainers/features/python:1": {}
-	},
 	"containerEnv": {
 		"BEETSDIR": "${containerWorkspaceFolder}"
 	}
