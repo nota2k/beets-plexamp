@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<album>
+  <review />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2023-08-30 03:19:01</dateadded>
+  <title>Heavenly Peace</title>
+  <year>1982</year>
+  <premiered>1982-01-01</premiered>
+  <releasedate>1982-01-01</releasedate>
+  <runtime>18</runtime>
+  <genre>Electronica</genre>
+  <musicbrainzalbumid>db39b314-6ab5-456e-8ded-570ae538b153</musicbrainzalbumid>
+  <musicbrainzalbumartistid>6ba5d6c3-b909-4067-a6ef-110315cb17b2</musicbrainzalbumartistid>
+  <musicbrainzreleasegroupid>17596a5d-6757-4cbd-a85c-123e9fd8c156</musicbrainzreleasegroupid>
+  <art />
+  <artist>C.Memi</artist>
+  <albumartist>C.Memi</albumartist>
+  <track>
+    <position>1</position>
+    <title>Ishin-Denshin</title>
+    <duration>05:28</duration>
+  </track>
+  <track>
+    <position>2</position>
+    <title>C'est Une Chanson</title>
+    <duration>03:13</duration>
+  </track>
+  <track>
+    <position>3</position>
+    <title>For Monster Of Dr. Frankenstein</title>
+    <duration>01:22</duration>
+  </track>
+  <track>
+    <position>4</position>
+    <title>Hitojichi</title>
+    <duration>03:35</duration>
+  </track>
+  <track>
+    <position>5</position>
+    <title>Heavenly Peace (Unga No Suimon Akete)</title>
+    <duration>03:50</duration>
+  </track>
+</album>
