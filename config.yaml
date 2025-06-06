@@ -1,9 +1,9 @@
-directory: C:\github\beets-plexamp\converted
+directory: converted
 library: ./musiclibrary.db
 import:
-    move: yes
-    copy: no
-    write: no
+    move: no
+    copy: yes
+    write: yes
     resume: yes
     autotag: yes
 
