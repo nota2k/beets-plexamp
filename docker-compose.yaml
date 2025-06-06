@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+    app:
+        build:
+            context: .devcontainer
+        volumes:
+            - .:/app
+        environment:
+            - BEETSDIR=/app
+        command: beet web 0.0.0.0 8337
+        working_dir: /app
+        ports:
+            - "8337:8337"

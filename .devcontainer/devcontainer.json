@@ -6,12 +6,10 @@
     "build": {
         "dockerfile": "Dockerfile"
     },
-	"features": {
-		"ghcr.io/devcontainers/features/python:1": {}
-	},
 	"containerEnv": {
 		"BEETSDIR": "${containerWorkspaceFolder}"
-	}
+	},
+	"postCreateCommand": "beet web"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},

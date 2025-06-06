@@ -1,11 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/base:bullseye
+FROM mcr.microsoft.com/devcontainers/python:3
 
-RUN apt-get update && \
-    apt-get install -y \
-    python3-pip
-
-RUN pip install beets
-RUN pip install "beets[discogs]"
-RUN pip install "beets[fetchart]"
-RUN pip install "beets[plugins]"
-RUN pip install beetcamp
+COPY requirements.txt /tmp/requirements.txt
+RUN pip install -r /tmp/requirements.txt

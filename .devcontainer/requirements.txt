@@ -1,0 +1,3 @@
+beets
+beets[discogs,fetchart,web,duplicates,fromfilename,acousticbrainz,mbsync]
+beetcamp
