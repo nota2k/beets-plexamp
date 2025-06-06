@@ -25,7 +25,7 @@ match:
     album: 3.0
     title: 4.0
 
-plugins: discogs fromfilename bandcamp web duplicates fromfilename inline mbsync
+plugins: discogs fromfilename bandcamp web duplicates fromfilename inline mbsync fetchart
 
 discogs:
   user_token: "hyDPKdjAJfqObOYfEPASiinZOTVzWxmSDXHQoMpK"
@@ -140,7 +140,7 @@ duplicates:
   format: '$albumartist - $album - $title [$format, $bitrate] - $path'
 
  
-# fetchart:
-#     store_source: yes
-#     cover_names: cover
-#     art_filename: cover
+fetchart:
+    store_source: yes
+    cover_names: cover
+    art_filename: cover
