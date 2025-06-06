@@ -5,3 +5,7 @@ RUN apt-get update && \
     python3-pip
 
 RUN pip install beets
+RUN pip install "beets[discogs]"
+RUN pip install "beets[fetchart]"
+RUN pip install "beets[plugins]"
+RUN pip install beetcamp
