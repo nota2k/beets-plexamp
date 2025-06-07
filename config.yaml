@@ -1,4 +1,4 @@
-directory: converted
+directory: /mnt/music
 library: ./musiclibrary.db
 import:
   move: yes
@@ -8,7 +8,7 @@ import:
   autotag: yes
   default_action: apply
   duplicate_action: merge
-  # incremental: yes
+  incremental: yes
   languages: ["en", "pl", "fr", "de"]
   detail: yes
   log: ./log.txt
