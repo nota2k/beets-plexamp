@@ -7,7 +7,7 @@ services:
         volumes:
             - .:/app
             - /Users/nellybabillon/Nextcloud:/mnt/nextcloud
-            - /Users/nellybabillon/Desktop/__04:/mnt/music
+            - /Users/nellybabillon/Desktop/__05:/mnt/music
         environment:
             - BEETSDIR=/app
         command: beet web 0.0.0.0 8337

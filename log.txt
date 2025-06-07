@@ -873,3 +873,287 @@ import started Sat Jun  7 19:46:37 2025
 asis /app/source/DJ Premier/''
 duplicate-keep /app/source/DJ Premier/''
 asis /app/source/DJ Premier/''; /app/converted/_/$filename.mp3; /app/converted/_/$filename.1.mp3
+import started Sat Jun  7 20:27:47 2025
+import started Sat Jun  7 20:29:27 2025
+skip /app/source/doublons/★ Italo Deviance ★ http___space-boogie.blogspot.com ★/★ Italo Deviance ★ http___space-boogie.blogspot.com ★
+import started Sat Jun  7 20:29:51 2025
+import started Sat Jun  7 20:30:24 2025
+skip /app/source/Cloud Canyons & Studio Kosmische/Under Neon Stars
+skip /app/source/guy boyer & jean-yves guihal - sport news (1979) (charles talar records) [vinyl]
+skip /app/source/It's Second Coming
+skip /app/source/Italo Disco Shit
+skip /app/source/v.a. polish new wave
+skip /app/source/VA - 1982 - Die Neue Deutsche Welle Ist Da Da Da
+skip /app/source/VA - 80's Dance Story Original Italo Hits (2010) [MuSi]
+skip /app/source/VA - Perfect Magic Electronic V (Obscure New Wave & Synth Pop of the 1980s)
+skip /app/source/Vol. 29
+import started Sat Jun  7 20:34:57 2025
+import started Sat Jun  7 20:36:47 2025
+import started Sat Jun  7 20:37:11 2025
+duplicate-keep /app/source/1982 - Heavenly Peace
+duplicate-keep /app/source/Automaticism
+import started Sat Jun  7 20:38:21 2025
+duplicate-keep /app/source/1982 - Heavenly Peace
+duplicate-keep /app/source/Automaticism
+asis /app/source/Cloud Canyons & Studio Kosmische/Under Neon Stars
+asis /app/source/doublons/★ Italo Deviance ★ http___space-boogie.blogspot.com ★/★ Italo Deviance ★ http___space-boogie.blogspot.com ★
+duplicate-keep /app/source/Geomancy
+asis /app/source/Geomancy; /app/converted/[2015] Geomancy/01 - Geomancy.m4a; /app/converted/[2015] Geomancy/02 - Night.m4a
+import started Sat Jun  7 20:48:08 2025
+import started Sat Jun  7 20:48:20 2025
+duplicate-keep /mnt/nextcloud/Fad Gadget/Fireside Favourites
+skip /mnt/nextcloud/Fad Gadget/Fireside Favourites; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/01 - Pedestrian.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/02 - State of the Nation.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/03 - Salt Lake City Sunday.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/04 - Coitus Interruptus.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/05 - Fireside Favourite.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/06 - Newsreel.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/07 - Insecticide.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/08 - The Box.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/09 - Arch of the Aorta.mp3
+skip /mnt/nextcloud/Fake Blood/Fake Blood
+skip /mnt/nextcloud/Fake Blood/Mars
+import started Sat Jun  7 20:51:47 2025
+duplicate-keep /mnt/nextcloud/Fad Gadget/Fireside Favourites
+skip /mnt/nextcloud/Fad Gadget/Fireside Favourites; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/01 - Pedestrian.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/02 - State of the Nation.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/03 - Salt Lake City Sunday.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/04 - Coitus Interruptus.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/05 - Fireside Favourite.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/06 - Newsreel.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/07 - Insecticide.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/08 - The Box.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/09 - Arch of the Aorta.mp3
+skip /mnt/nextcloud/Fake Blood/Unknown Album
+skip /mnt/nextcloud/Falco/Unknown Album
+skip /mnt/nextcloud/Famous/Highway
+skip /mnt/nextcloud/Fantastique/Fantastique
+skip /mnt/nextcloud/Fashion Suicide (Synth Pop, Minimal, Russia)/Fashion Suicide - 2004 - Bright
+skip /mnt/nextcloud/Fashion Suicide (Synth Pop, Minimal, Russia)/Fashion Suicide - 2008 - Selected Instrumental Works 2003-2008
+skip /mnt/nextcloud/Fat Freddy's Drop/Based on a true story
+skip /mnt/nextcloud/Fatboy slim/Rockafella Skank (single)
+skip /mnt/nextcloud/Fatso/Far From Home
+skip /mnt/nextcloud/Faun/Licht
+skip /mnt/nextcloud/Federico & The Marrakech Orchestra/Casbah Boogie
+import started Sat Jun  7 20:56:29 2025
+duplicate-keep /mnt/nextcloud/Fad Gadget/Fireside Favourites
+skip /mnt/nextcloud/Fad Gadget/Fireside Favourites; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/01 - Pedestrian.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/02 - State of the Nation.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/03 - Salt Lake City Sunday.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/04 - Coitus Interruptus.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/05 - Fireside Favourite.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/06 - Newsreel.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/07 - Insecticide.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/08 - The Box.mp3; /mnt/music/1980 Fad Gadget - Fireside Favourites/[1991] Fireside Favourites/09 - Arch of the Aorta.mp3
+duplicate-keep /mnt/nextcloud/Faun/Renaissance
+skip /mnt/nextcloud/Faun/Renaissance; /mnt/music/Faun/[2005] Renaissance/01 - Satyros.mp3; /mnt/music/Faun/[2005] Renaissance/02 - Da Que Deus.mp3; /mnt/music/Faun/[2005] Renaissance/03 - Tagelied.mp3; /mnt/music/Faun/[2005] Renaissance/04 - Rhiannon.mp3; /mnt/music/Faun/[2005] Renaissance/05 - Sirena.mp3; /mnt/music/Faun/[2005] Renaissance/06 - Königin.mp3; /mnt/music/Faun/[2005] Renaissance/07 - Iyansa.mp3; /mnt/music/Faun/[2005] Renaissance/08 - Loibere Risen.mp3; /mnt/music/Faun/[2005] Renaissance/09 - Rosmarin.mp3; /mnt/music/Faun/[2005] Renaissance/10 - Das Tor.mp3
+skip /mnt/nextcloud/Federico & The Marrakech Orchestra/Casbah Boogie
+skip /mnt/nextcloud/Federico & The Marrakech Orchestra/Federico & The Marrakech Orchestra
+skip /mnt/nextcloud/Federico & The Marrakech Orchestra/Unknown Album
+skip /mnt/nextcloud/Feed Me & Gemini/Unknown Album
+skip /mnt/nextcloud/Fehlfarben/Glut und Asche
+skip /mnt/nextcloud/Fehlfarben/Monarchie und Alltag
+skip /mnt/nextcloud/Fehlfarben/Tanzen Mit Vomi
+skip /mnt/nextcloud/Feist/feist
+skip /mnt/nextcloud/Feist/Let It Die
+skip /mnt/nextcloud/Feist/Unknown Album
+skip /mnt/nextcloud/Felix Da Housecat/Unknown Album
+skip /mnt/nextcloud/Felix Kubin/ALKU 73
+skip /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)
+skip /mnt/nextcloud/Felix Kubin/Bruder Luzifer(flac)
+skip /mnt/nextcloud/Felix Kubin/Die Inhaberin des Chlorophyllmandats überwacht den Ausgleich von Licht und Schatten TAPE
+skip /mnt/nextcloud/Felix Kubin/Die Inhaberin des Chlorophyllmandats ьberwacht den Ausgleich von Licht und Schatten TAPE
+skip /mnt/nextcloud/Felix Kubin/Die Pein Vom Haupt Entfernen
+skip /mnt/nextcloud/Felix Kubin/Divers
+skip /mnt/nextcloud/Felix Kubin/Felix Kubin & Coolhaven/Suppe Für Die Nacht
+skip /mnt/nextcloud/Felix Kubin/Felix Kubin & Idea Fire Compan
+duplicate-keep /mnt/nextcloud/Felix Kubin/felix kubin & wojtek kucharczyk - territerrortorium (2005 - gagarin)
+skip /mnt/nextcloud/Felix Kubin/felix kubin & wojtek kucharczyk - territerrortorium (2005 - gagarin); /mnt/music/Felix Kubin & Wojciech Kucharczyk/[2005] Territerrortorium/01 - Grunwald Tannenberg.mp3; /mnt/music/Felix Kubin & Wojciech Kucharczyk/[2005] Territerrortorium/02 - Kathedrale Kopernikus - Katedra Kopernika.mp3; /mnt/music/Felix Kubin & Wojciech Kucharczyk/[2005] Territerrortorium/03 - Hochzeit Der Hymnen - Wesele Hymnów.mp3
+skip /mnt/nextcloud/Felix Kubin/Felix Kubin feat. Mark Boombastik a.k.a. D Großmutter/Operation Pudel 2006 ZD 50
+skip /mnt/nextcloud/Felix Kubin/felix kubin Mariola Brillowska/House Of National Dog
+skip /mnt/nextcloud/Felix Kubin/Filmmusik
+skip /mnt/nextcloud/Felix Kubin/nanoloop 1.0
+skip /mnt/nextcloud/Felix Kubin/Stuttgart 06
+skip /mnt/nextcloud/Felix Kubin/Tanzen Mit Vomi
+skip /mnt/nextcloud/Felix Kubin/The Pataphysical Tape Club (with idea fire company)
+skip /mnt/nextcloud/Felix Kubin/Unknown Album
+skip /mnt/nextcloud/Felix Kubin/Zemsta Plutona
+skip /mnt/nextcloud/feltman trommelt/Unknown Album
+skip /mnt/nextcloud/Fever Ray/Fever Ray
+skip /mnt/nextcloud/Fever Ray/fever ray - self-titled
+skip /mnt/nextcloud/Fight Club OST/Fight Club OST
+skip /mnt/nextcloud/Fight Club OST/Please Visit MUSIC DL
+skip /mnt/nextcloud/Finbar Furey/Gangs Of Newyork
+skip /mnt/nextcloud/Fitzroy North/Skweee Shanties Volume 2
+skip /mnt/nextcloud/Five Or Six/Unknown Album
+skip /mnt/nextcloud/fix it in the mix
+skip /mnt/nextcloud/Flex Busterman/the horrible plans of flexbusterman
+skip /mnt/nextcloud/Flirts/Unknown Album
+skip /mnt/nextcloud/flow & andrew/Unknown Album
+skip /mnt/nextcloud/Flowchart/The Best of Italo-disco
+skip /mnt/nextcloud/Flown/Unknown Album
+skip /mnt/nextcloud/Flux Pavillion/Unknown Album
+skip /mnt/nextcloud/Flybox/Funky Now
+skip /mnt/nextcloud/Flying Lotus - Lovers Melt 2 [2011] [Mixtape]
+skip /mnt/nextcloud/Foamo/Foamo EP
+skip /mnt/nextcloud/Fockewulf 190/1982-1986 - microcosmos 82 - 86 (album 2011)
+skip /mnt/nextcloud/Fockewulf 190/Body Heat
+skip /mnt/nextcloud/Fockewulf 190/Microcosmos 82-86  ( lp 1)
+skip /mnt/nextcloud/Fockewulf 190/Oh Oh Oh (Maxi 12 Version)
+skip /mnt/nextcloud/Fockewulf 190/Unknown Album
+skip /mnt/nextcloud/Footsie/5 Star General
+skip /mnt/nextcloud/Format B/Cosa Nostra Funk Vinyl
+skip /mnt/nextcloud/Format B/Restless
+skip /mnt/nextcloud/Format B/Unknown Album
+skip /mnt/nextcloud/formerbusboy/various artists - on-slaught no. 4 cs (idiosyncratics, 1984)
+skip /mnt/nextcloud/Fotostat/Unknown Album
+skip /mnt/nextcloud/Four Non Blondes/Unknown Album
+skip /mnt/nextcloud/Four Tet/Pause
+skip /mnt/nextcloud/Four Tet/Rounds
+skip /mnt/nextcloud/Foyer des arts/Tanzen Mit Vomi
+skip /mnt/nextcloud/Francis Cabrel/Des roses et des orties
+skip /mnt/nextcloud/Francis Cabrel/Unknown Album
+skip /mnt/nextcloud/Franco Fasano/Un'Isola Alle Hawaii
+skip /mnt/nextcloud/Frank Sinatra/Unknown Album
+skip /mnt/nextcloud/Frankie Laine/16 Most Requested TV Themes
+skip /mnt/nextcloud/Frankie Laine/Mp3music
+skip /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1
+skip /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 2
+skip /mnt/nextcloud/Franz Ferdinand/Blood_ Franz Ferdinand
+skip /mnt/nextcloud/Fred Frith/Cheap at Half the Price
+skip /mnt/nextcloud/Freddy The Flying Dutchman And The Sistina Band/[1979]Wojtyla Disco Dance
+skip /mnt/nextcloud/Freddy The Flying Dutchman And The Sistina Band/Unknown Album
+skip /mnt/nextcloud/frep/Various ‎– Volume 8 Program 12
+skip /mnt/nextcloud/Frédéric Chopin/Mon CD
+skip /mnt/nextcloud/Fritz Reiner/The Darjeeling Limited [SOUNDTRACK]
+skip /mnt/nextcloud/Frustration/Full Of Sorrow
+skip /mnt/nextcloud/Frustration/Relax
+skip /mnt/nextcloud/Funkineven/Apron
+skip /mnt/nextcloud/Funkineven/funkineven - 2010 - she's acid _ must move (320)
+skip /mnt/nextcloud/Funkineven/FunkinEven - Dreams Of Coke (Apron Records, 2013)
+skip /mnt/nextcloud/Furries in a Blender/The Best_ The Best_
+skip /mnt/nextcloud/Future Sense/Heartaches
+skip /mnt/nextcloud/Future World Orchestra/Turning point
+skip /mnt/nextcloud/Gadgets/Unknown Album
+skip /mnt/nextcloud/Gaetan Roussel/Help Myself (nous Ne Faisons Que Passer)
+skip /mnt/nextcloud/Gala/Unknown Album
+skip /mnt/nextcloud/Galaxian/Unknown Album
+skip /mnt/nextcloud/Galt MacDermot, Gerome Ragni & Jim Rado/Tarnation
+skip /mnt/nextcloud/Galvanica/Night Lights In Japan
+skip /mnt/nextcloud/Gamma Ray/The best of Heavy Metal
+skip /mnt/nextcloud/Gazuzu/Unknown Album
+skip /mnt/nextcloud/Gdansk/VA - Vinyl Magazine Free Flexidiscs #3
+skip /mnt/nextcloud/Gemmy/Unknown Album
+skip /mnt/nextcloud/Genetix/Genetix Part 1
+skip /mnt/nextcloud/geneva jacuzzi/kooze control
+skip /mnt/nextcloud/Gensomaden Saiyuki/Unknown Album
+skip /mnt/nextcloud/GEODE/Vie EP
+skip /mnt/nextcloud/George Braith/Extension _ Plus Ultra
+skip /mnt/nextcloud/George Brassens/La chasse aux papillons
+skip /mnt/nextcloud/George Gershwin & Lena Horne/Unknown Album
+skip /mnt/nextcloud/George Morel/Morel's Grooves 4 - EP
+skip /mnt/nextcloud/Georges Brassens/Jeanne et Serge
+skip /mnt/nextcloud/Georges Brassens/Les Copains D'Abord
+skip /mnt/nextcloud/Georgie Fame/Unknown Album
+skip /mnt/nextcloud/Geza X/You Gooddam kids_
+skip /mnt/nextcloud/GHIBLI/Unknown Album
+skip /mnt/nextcloud/Gimmik/Rythmus Der Stadt
+skip /mnt/nextcloud/Ginastera, Alberto/The artist
+skip /mnt/nextcloud/Ginuwine/Unknown Album
+skip /mnt/nextcloud/Giorgio Moroder/E=MC2 _MB2018
+skip /mnt/nextcloud/Gipsy Kings/AyoDance Ballroom Feb 2008
+skip /mnt/nextcloud/Gipsy Kings/Best of the Gipsy Kings
+import started Sat Jun  7 21:33:46 2025
+duplicate-keep /mnt/nextcloud/Fad Gadget/Fireside Favourites
+asis /mnt/nextcloud/Fake Blood/Unknown Album
+duplicate-keep /mnt/nextcloud/Fashion Suicide (Synth Pop, Minimal, Russia)/Fashion Suicide - 2006 - Little Candy
+duplicate-keep /mnt/nextcloud/Fat Freddy's Drop/Live At Roundhouse
+duplicate-keep /mnt/nextcloud/Fatboy slim/1998 - You've Come A Long Way Baby
+duplicate-keep /mnt/nextcloud/Fatboy slim/2000 - Halfway Between the Gutter and the Stars
+duplicate-keep /mnt/nextcloud/Fatboy slim/2004 - Palookaville
+duplicate-keep /mnt/nextcloud/Faun/Renaissance
+duplicate-keep /mnt/nextcloud/Federico & The Marrakech Orchestra/Federico & The Marrakech Orchestra
+asis /mnt/nextcloud/Feed Me & Gemini/Unknown Album
+duplicate-keep /mnt/nextcloud/Feist/Unknown Album
+asis /mnt/nextcloud/Felix Kubin/ALKU 73
+duplicate-keep /mnt/nextcloud/Felix Kubin/Bruder Luzifer(flac)
+duplicate-keep /mnt/nextcloud/Felix Kubin/Bruder Luzifer(flac); /mnt/music/Felix Kubin/[2011] Bruder Luzifer/01 - Phonebashing.mp3; /mnt/music/Felix Kubin/[2011] Bruder Luzifer/02 - Lightning Strikes.mp3; /mnt/music/Felix Kubin/[2011] Bruder Luzifer/03 - Schnitzler.mp3; /mnt/music/Felix Kubin/[2011] Bruder Luzifer/04 - Groscher Lausangriff.mp3; /mnt/music/Felix Kubin/[2011] Bruder Luzifer/05 - Hotel Super Nova.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/06 - there is a garden.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/08 - hit me, provider.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/09 - die kulturelle revolution.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/10 - bruder luzifer.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/11 - i lost my heart in reykjavik.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/12 - stelle am mund.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/13 - babelfish swing ballet.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/14 - doppelagenten.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/15 - waschzwangmama.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/18 - krematorien.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/19 - idiotenmusik 2.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/20 - dead end brain.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/21 - kathedrale kopernikus.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/22 - antarktis slow rock.mp3; /mnt/nextcloud/Felix Kubin/Bruder luzifer (2011)/23 - hello.mp3
+import started Sat Jun  7 21:50:25 2025
+duplicate-keep /mnt/nextcloud/Fashion Suicide (Synth Pop, Minimal, Russia)/Fashion Suicide - 2006 - Little Candy
+duplicate-keep /mnt/nextcloud/Fat Freddy's Drop/Live At Roundhouse
+duplicate-keep /mnt/nextcloud/Fatboy slim/1998 - You've Come A Long Way Baby
+duplicate-keep /mnt/nextcloud/Fatboy slim/2000 - Halfway Between the Gutter and the Stars
+duplicate-keep /mnt/nextcloud/Fatboy slim/2004 - Palookaville
+duplicate-keep /mnt/nextcloud/Faun/Renaissance
+duplicate-keep /mnt/nextcloud/Feist/Unknown Album
+duplicate-keep /mnt/nextcloud/Felix Kubin/Bruder Luzifer(flac)
+skip /mnt/nextcloud/Felix Kubin/Die Inhaberin des Chlorophyllmandats überwacht den Ausgleich von Licht und Schatten TAPE
+skip /mnt/nextcloud/Felix Kubin/Die Pein Vom Haupt Entfernen
+skip /mnt/nextcloud/Felix Kubin/Divers
+skip /mnt/nextcloud/Felix Kubin/Felix Kubin & Idea Fire Compan
+duplicate-keep /mnt/nextcloud/Felix Kubin/felix kubin & wojtek kucharczyk - territerrortorium (2005 - gagarin)
+duplicate-keep /mnt/nextcloud/Felix Kubin/Felix Kubin feat. Mark Boombastik a.k.a. D Großmutter/Operation Pudel 2006 ZD 50
+skip /mnt/nextcloud/Felix Kubin/nanoloop 1.0
+skip /mnt/nextcloud/Felix Kubin/Stuttgart 06
+skip /mnt/nextcloud/Felix Kubin/Tanzen Mit Vomi
+skip /mnt/nextcloud/Felix Kubin/The Pataphysical Tape Club (with idea fire company)
+skip /mnt/nextcloud/Felix Kubin/Unknown Album
+skip /mnt/nextcloud/feltman trommelt/Unknown Album
+duplicate-keep /mnt/nextcloud/Fever Ray/fever ray - self-titled
+skip /mnt/nextcloud/Fight Club OST/Fight Club OST
+skip /mnt/nextcloud/Fight Club OST/Please Visit MUSIC DL
+skip /mnt/nextcloud/Finbar Furey/Gangs Of Newyork
+skip /mnt/nextcloud/Flirts/Unknown Album
+skip /mnt/nextcloud/flow & andrew/Unknown Album
+skip /mnt/nextcloud/Flowchart/The Best of Italo-disco
+skip /mnt/nextcloud/Flown/Unknown Album
+skip /mnt/nextcloud/Flux Pavillion/Unknown Album
+skip /mnt/nextcloud/Flying Lotus - Lovers Melt 2 [2011] [Mixtape]
+skip /mnt/nextcloud/Footsie/5 Star General
+skip /mnt/nextcloud/formerbusboy/various artists - on-slaught no. 4 cs (idiosyncratics, 1984)
+skip /mnt/nextcloud/Four Non Blondes/Unknown Album
+skip /mnt/nextcloud/Foyer des arts/Tanzen Mit Vomi
+skip /mnt/nextcloud/Francis Cabrel/Unknown Album
+skip /mnt/nextcloud/Frankie Laine/Mp3music
+duplicate-keep /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 2
+duplicate-keep /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 2; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/02 Gunfight At The Ok Corral.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/03 Sixteen Tons.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/04 Wanted Man.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/05 High Noon.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/06 Bowie Knife.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/07 Along The Navajo Trail.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/08 Cool Water.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/09 City Boy.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/10 The Cry Of The Wild Goose.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/11 Call Of The Wild.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/12 Rocks And Gravel (Early In The Mornin').mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/13 Misirlou.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/14 Riders In The Sky.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/15 The 3.10 To Yuma.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/16 The Hanging Tree.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/17 Mule Train.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/18 On The Trail.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/19 Moonlight Gambler.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/20 North To Alaska.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/01 Rawhide.mp3
+skip /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 2; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/02 Gunfight At The Ok Corral.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/03 Sixteen Tons.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/04 Wanted Man.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/05 High Noon.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/06 Bowie Knife.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/07 Along The Navajo Trail.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/08 Cool Water.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/09 City Boy.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/10 The Cry Of The Wild Goose.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/11 Call Of The Wild.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/12 Rocks And Gravel (Early In The Mornin').mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/13 Misirlou.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/14 Riders In The Sky.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/15 The 3.10 To Yuma.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/16 The Hanging Tree.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/17 Mule Train.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/18 On The Trail.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/19 Moonlight Gambler.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/20 North To Alaska.mp3; /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 1/01 Rawhide.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/02 - Gunfight at the O.K. Corral (version 2).mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/03 - Sixteen Tons.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/04 - Wanted Man.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/05 - High Noon (album version).mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/06 - Bowie Knife.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/07 - Along the Navajo Trail.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/08 - Cool Water (album version).mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/09 - City Boy.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/10 - The Cry of the Wild Goose.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/11 - Call of the Wild.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/12 - Rocks and Gravel (Early in the Mornin') (album version).mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/13 - Misirlou.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/14 - Riders in the Sky.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/15 - The 3_10 to Yuma (version 2).mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/16 - The Hanging Tree (12191960).mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/17 - Mule Train.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/18 - On the Trail.mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/19 - Moonlight Gambler (album version).mp3; /mnt/music/Frankie Laine/[2004] The Frankie Laine Collection/20 - North to Alaska.mp3; /mnt/music/Frankie Laine with Orchester Jimmy Carroll/[2004] The Frankie Laine Collection/01 - Rawhide.mp3
+duplicate-keep /mnt/nextcloud/Freddy The Flying Dutchman And The Sistina Band/Unknown Album
+skip /mnt/nextcloud/Frédéric Chopin/Mon CD
+skip /mnt/nextcloud/Funkineven/funkineven - 2010 - she's acid _ must move (320)
+skip /mnt/nextcloud/Gadgets/Unknown Album
+skip /mnt/nextcloud/Gala/Unknown Album
+skip /mnt/nextcloud/Galt MacDermot, Gerome Ragni & Jim Rado/Tarnation
+skip /mnt/nextcloud/Gamma Ray/The best of Heavy Metal
+skip /mnt/nextcloud/Gdansk/VA - Vinyl Magazine Free Flexidiscs #3
+skip /mnt/nextcloud/Gemmy/Unknown Album
+skip /mnt/nextcloud/Gensomaden Saiyuki/Unknown Album
+skip /mnt/nextcloud/George Braith/Extension _ Plus Ultra
+skip /mnt/nextcloud/George Gershwin & Lena Horne/Unknown Album
+duplicate-keep /mnt/nextcloud/Georges Brassens/Les Copains D'Abord
+skip /mnt/nextcloud/Geza X/You Gooddam kids_
+skip /mnt/nextcloud/Ginastera, Alberto/The artist
+skip /mnt/nextcloud/Ginuwine/Unknown Album
+skip /mnt/nextcloud/Giorgio Moroder/E=MC2 _MB2018
+skip /mnt/nextcloud/Gipsy Kings/AyoDance Ballroom Feb 2008
+import started Sat Jun  7 22:24:33 2025
+duplicate-keep /mnt/nextcloud/Fashion Suicide (Synth Pop, Minimal, Russia)/Fashion Suicide - 2006 - Little Candy
+duplicate-keep /mnt/nextcloud/Fatboy slim/1998 - You've Come A Long Way Baby
+duplicate-keep /mnt/nextcloud/Fatboy slim/2000 - Halfway Between the Gutter and the Stars
+duplicate-keep /mnt/nextcloud/Fatboy slim/2004 - Palookaville
+import started Sat Jun  7 22:27:47 2025
+duplicate-keep /mnt/nextcloud/Fashion Suicide (Synth Pop, Minimal, Russia)/Fashion Suicide - 2006 - Little Candy
+duplicate-keep /mnt/nextcloud/Faun/Renaissance
+duplicate-keep /mnt/nextcloud/Felix Kubin/Bruder Luzifer(flac)
+asis /mnt/nextcloud/Felix Kubin/Felix Kubin feat. Mark Boombastik a.k.a. D Großmutter/Operation Pudel 2006 ZD 50
+duplicate-keep /mnt/nextcloud/Frankie Laine/The Frankie Laine Collection Vol 2
+import started Sat Jun  7 22:30:46 2025
+duplicate-keep /mnt/nextcloud/Felix Kubin/Bruder Luzifer(flac)
+import started Sat Jun  7 22:31:30 2025
+duplicate-keep /mnt/nextcloud/Felix Kubin/Bruder Luzifer(flac)
+asis /mnt/nextcloud/Felix Kubin/Die Inhaberin des Chlorophyllmandats überwacht den Ausgleich von Licht und Schatten TAPE
+asis /mnt/nextcloud/Felix Kubin/Die Pein Vom Haupt Entfernen
+asis /mnt/nextcloud/Felix Kubin/Divers
+asis /mnt/nextcloud/Felix Kubin/Felix Kubin & Coolhaven/Suppe Für Die Nacht
+duplicate-keep /mnt/nextcloud/Felix Kubin/Felix Kubin & Coolhaven/Suppe Für Die Nacht
+asis /mnt/nextcloud/Felix Kubin/Felix Kubin & Idea Fire Compan
+asis /mnt/nextcloud/Felix Kubin/nanoloop 1.0
+asis /mnt/nextcloud/Felix Kubin/Stuttgart 06
+asis /mnt/nextcloud/Felix Kubin/Tanzen Mit Vomi
+asis /mnt/nextcloud/Felix Kubin/The Pataphysical Tape Club (with idea fire company)
+asis /mnt/nextcloud/Felix Kubin/Unknown Album
+duplicate-keep /mnt/nextcloud/Felix Kubin/Zemsta Plutona
+asis /mnt/nextcloud/Fight Club OST/Fight Club OST
+asis /mnt/nextcloud/Fight Club OST/Please Visit MUSIC DL
+duplicate-keep /mnt/nextcloud/fix it in the mix
+asis /mnt/nextcloud/flow & andrew/Unknown Album
+asis /mnt/nextcloud/Flowchart/The Best of Italo-disco
+asis /mnt/nextcloud/Flown/Unknown Album
+asis /mnt/nextcloud/Flux Pavillion/Unknown Album
+asis /mnt/nextcloud/Footsie/5 Star General
+asis /mnt/nextcloud/formerbusboy/various artists - on-slaught no. 4 cs (idiosyncratics, 1984)
+asis /mnt/nextcloud/Gadgets/Unknown Album
+asis /mnt/nextcloud/Galt MacDermot, Gerome Ragni & Jim Rado/Tarnation
+asis /mnt/nextcloud/Gdansk/VA - Vinyl Magazine Free Flexidiscs #3
+asis /mnt/nextcloud/Gensomaden Saiyuki/Unknown Album
+asis /mnt/nextcloud/George Brassens/La chasse aux papillons
+asis /mnt/nextcloud/George Gershwin & Lena Horne/Unknown Album
+asis /mnt/nextcloud/Ginuwine/Unknown Album
+duplicate-keep /mnt/nextcloud/Gipsy Kings/AyoDance Ballroom Feb 2008
