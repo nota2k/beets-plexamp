@@ -1,4 +1,4 @@
-directory: converted
+directory: /mnt/music
 library: ./musiclibrary.db
 import:
   move: no
@@ -20,7 +20,7 @@ match:
   # Important : permet de traiter les morceaux individuellement
   singleton_thresh: 0.90
 
-plugins: discogs fromfilename bandcamp web fromfilename inline mbsync fetchart
+plugins: discogs bandcamp web inline mbsync fetchart edit
 
 discogs:
   user_token: "hyDPKdjAJfqObOYfEPASiinZOTVzWxmSDXHQoMpK"

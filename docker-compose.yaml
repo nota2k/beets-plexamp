@@ -6,6 +6,8 @@ services:
             context: .devcontainer
         volumes:
             - .:/app
+            - /Users/nellybabillon/Nextcloud:/mnt/nextcloud
+            - /Users/nellybabillon/Desktop/__03:/mnt/music
         environment:
             - BEETSDIR=/app
         command: beet web 0.0.0.0 8337
