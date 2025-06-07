@@ -114,3 +114,762 @@ duplicate-replace /app/source/doublons/Bagarre/CIRCUS
 duplicate-replace /app/source/doublons/★ Italo Deviance ★ http___space-boogie.blogspot.com ★/★ Italo Deviance ★ http___space-boogie.blogspot.com ★
 asis /app/source/VA - Perfect Magic Electronic V (Obscure New Wave & Synth Pop of the 1980s)
 asis /app/source/Vol. 29
+import started Sat Jun  7 13:34:41 2025
+skip /mnt/nextcloud/David Hallyday/Unknown Album
+skip /mnt/nextcloud/David Keaton/Live At Robert Johnson Volume 7 (Mixed By ATA)
+skip /mnt/nextcloud/David Lynch/Les inrockuptibles Printemps été 2013
+import started Sat Jun  7 13:44:29 2025
+import started Sat Jun  7 13:45:07 2025
+duplicate-replace /mnt/nextcloud/De Frontanel/Le Monde Cruel De Katja (La Trilogie)
+duplicate-replace /mnt/nextcloud/Debout sur le Zinc/L'Homme A Tue Tete
+duplicate-keep /mnt/nextcloud/Debout sur le Zinc/L'homme à tue-tête
+skip /mnt/nextcloud/Debout Sur Le Zinc - Live/Show Case à la Fnac
+skip /mnt/nextcloud/Decadance/Dancefloor Gems 80's Vol. 10
+skip /mnt/nextcloud/Deep Purple/The best of Heavy Metal
+skip /mnt/nextcloud/Deetah; /mnt/nextcloud/Deetah/Pure Garage Presents 100 Garage Classics - CD4
+skip /mnt/nextcloud/Defunk/Want Blood Remixes
+skip /mnt/nextcloud/Defunk/www.soundcloud.com_defunk-music
+skip /mnt/nextcloud/Denki Groove vs. E-Pak-Sa/Hirake Pon-Chak
+skip /mnt/nextcloud/Der Plan/Tanzen Mit Vomi
+skip /mnt/nextcloud/Devendra Banhart/cripple creek
+skip /mnt/nextcloud/Die Doraus Und Die Marinas/Unknown Album
+duplicate-keep /mnt/nextcloud/Die Radierer/Eisbären & Zitronen
+skip /mnt/nextcloud/Die Radierer/non dom tapes 79-80
+skip /mnt/nextcloud/Die Radierer/Tanzen Mit Vomi
+skip /mnt/nextcloud/Die Radierer/Unknown Album
+skip /mnt/nextcloud/Digital dance/Album
+skip /mnt/nextcloud/Din Stalker
+skip /mnt/nextcloud/Dinosaures/BIENVENUE AU MONDE DES DINOSAURES
+skip /mnt/nextcloud/Dio/The best of Heavy Metal
+skip /mnt/nextcloud/Dire Straits/Unknown Album
+skip /mnt/nextcloud/Dirt Monkey and Jantsen/Dreamchaser EP
+duplicate-replace /mnt/nextcloud/Dirtwire - DIRTWIRE
+skip /mnt/nextcloud/Dirty Boyz/ABC...Euro-Italo-Disco vol.014
+skip /mnt/nextcloud/Discey/Unknown Album
+skip /mnt/nextcloud/Disclosure/Les inrockuptibles Printemps été 2013
+skip /mnt/nextcloud/Diverse artiesten/The 90's hits
+skip /mnt/nextcloud/Diving With Andy/Les inrockuptibles Printemps été 2013
+skip /mnt/nextcloud/DJ Janko Nilovic Jr_/Unknown Album
+skip /mnt/nextcloud/DJ Premier/Unknown Album
+skip /mnt/nextcloud/DJ Premier/Unreleased Beats Volume 1
+skip /mnt/nextcloud/DJ Shadow, Beatie Boys, Mix Master Mike & Ronnie Size/Unknown Album
+duplicate-keep /mnt/nextcloud/Django Django/Django Django
+skip /mnt/nextcloud/Do Po/Unknown Album
+skip /mnt/nextcloud/Dobacaracol/Unknown Album
+skip /mnt/nextcloud/Doctor L/Unknown Album
+skip /mnt/nextcloud/Dodge & Fuski/Fierce _ Pornstep
+skip /mnt/nextcloud/Dodge & Fuski/Unknown Album
+skip /mnt/nextcloud/Doko/Unknown Album
+skip /mnt/nextcloud/Don Choa/Unknown Album
+skip /mnt/nextcloud/Don Choa/Vapeurs Toxiques
+skip /mnt/nextcloud/Donky Pitch/Boss Kite - Comicon EP
+skip /mnt/nextcloud/Dopplereffekt/Live 2008-02-02, Inkonst, Malmö
+import started Sat Jun  7 14:00:33 2025
+duplicate-keep /mnt/nextcloud/Debout sur le Zinc/L'homme à tue-tête
+skip /mnt/nextcloud/Dopplereffekt/Live 2008-02-02, Inkonst, Malmö
+skip /mnt/nextcloud/Doris Day; /mnt/nextcloud/Doris Day/Golden Girl_ Columbia Recordings 1944-1966 Disc 2
+skip /mnt/nextcloud/DOS.putin - Da Bassmobile EP
+skip /mnt/nextcloud/dotdUmmy - Coaxial Moments
+skip /mnt/nextcloud/Dream Theater/The best of Heavy Metal
+skip /mnt/nextcloud/Drenge/Les inrockuptibles Printemps été 2013
+skip /mnt/nextcloud/Dschinghis Khan/Dschinghis Khan
+duplicate-keep /mnt/nextcloud/Dub Incorporation/Dans Le Décor
+skip /mnt/nextcloud/Dub Incorporation/Répétition
+skip /mnt/nextcloud/Dub Incorporation/Unknown Album
+skip /mnt/nextcloud/Dub Tractor 2DB4LiFE/-= 2DB RoX Yer SoX =-
+skip /mnt/nextcloud/Dubravka Tomšič/Beethoven_ Piano Concerto #1, Piano Sonata #21
+skip /mnt/nextcloud/Dubravka Tomšič/Chopin_ Piano Concerto #1, Preludes
+skip /mnt/nextcloud/Dubravka Tomšič; Anton Nanut_ Ljubljana Radio Symphony Orchestra/Beethoven_ Piano Concerto #1, Piano Sonata #21
+skip /mnt/nextcloud/Duke Slammer/Slamcast vol.4
+skip /mnt/nextcloud/Duke Slammer/Slamcast vol.6
+skip /mnt/nextcloud/Duke Slammer/Unknown Album
+skip /mnt/nextcloud/Dusk/Unknown Album
+skip /mnt/nextcloud/Dusty Springfield/Good Morning England
+skip /mnt/nextcloud/Dusty Springfield/Lock,Stock And Two Smoking Bar
+skip /mnt/nextcloud/E.S.M - Mynt [ESM 01 - 1987]
+skip /mnt/nextcloud/Eagles/Unknown Album
+skip /mnt/nextcloud/Easter/Unknown Album
+skip /mnt/nextcloud/Easter and the Totem/Unknown Album
+skip /mnt/nextcloud/Eat Rabbit/BrK SHOW vol2
+skip /mnt/nextcloud/Eat Rabbit/Italo Dildos
+skip /mnt/nextcloud/Eat Rabbit/Movie ruiners (digital only)
+skip /mnt/nextcloud/Eat Rabbit/Preview
+skip /mnt/nextcloud/Eat Rabbit/Unknown Album
+skip /mnt/nextcloud/Eat Rabbit - Torturo - Felipe - Monsieur TuC/RadioClash #44
+skip /mnt/nextcloud/Echo & the Bunnymen/Donnie Darko Soundtrack
+skip /mnt/nextcloud/Edsel Records; /mnt/nextcloud/Edsel Records/Into The Gap (Deluxe 2 CD Edition) (CD 1)
+skip /mnt/nextcloud/Edvard Grieg/Concerto pour piano en la mineur opus 16
+skip /mnt/nextcloud/Eero Johannes - Real Virtuality EP
+skip /mnt/nextcloud/EIETHKSRKTuYL/EIETHKSRKTuYL
+skip /mnt/nextcloud/Eiffel 65/The Best Hits Of 90_s
+skip /mnt/nextcloud/Einsturzende Neubauten/Tanzen Mit Vomi
+skip /mnt/nextcloud/Electra/Gesloten Cirkel
+import started Sat Jun  7 14:14:22 2025
+skip /mnt/nextcloud/elephants never sleep/Unknown Album
+skip /mnt/nextcloud/Ellen allien/Stadtkind
+duplicate-keep /mnt/nextcloud/Elli & Jacno /elli & jacno - symphonies de poche
+skip /mnt/nextcloud/Ellington, Duke/The artist
+skip /mnt/nextcloud/Emilie Satt/Unknown Album
+skip /mnt/nextcloud/Emissions Zéro
+skip /mnt/nextcloud/En/Unknown Album
+skip /mnt/nextcloud/Ensemble Pittoresque/VA - Vinyl Magazine Free Flexidiscs #3
+skip /mnt/nextcloud/entité sonore gangpol.inc/l'horreur est humaine
+skip /mnt/nextcloud/Entropie Vol. 03/1980-1982
+skip /mnt/nextcloud/Entropie Vol. 03/A Mysterious Design
+skip /mnt/nextcloud/Entropie Vol. 03/Accent
+skip /mnt/nextcloud/Entropie Vol. 03/Amor Y Néon 7_
+skip /mnt/nextcloud/Entropie Vol. 03/Blümchen 7''
+skip /mnt/nextcloud/Entropie Vol. 03/Circuit D'Actes
+skip /mnt/nextcloud/Entropie Vol. 03/Circuit D'Actes 2
+skip /mnt/nextcloud/Entropie Vol. 03/Darkness Before Dawn Vol. 01 Disc 02
+skip /mnt/nextcloud/Entropie Vol. 03/Des Jeunes Gens Mödernes
+skip /mnt/nextcloud/Entropie Vol. 03/Grand Tour
+skip /mnt/nextcloud/Entropie Vol. 03/Le Malade Roi _ Elan
+skip /mnt/nextcloud/Entropie Vol. 03/Love Will Tear Us Apart 12_
+skip /mnt/nextcloud/Entropie Vol. 03/Magic
+skip /mnt/nextcloud/Entropie Vol. 03/Minimal Baby V
+skip /mnt/nextcloud/Entropie Vol. 03/N'en Parlons Plus _ Un Monde Sans Évasion Possible
+skip /mnt/nextcloud/Entropie Vol. 03/Pierre Normal
+skip /mnt/nextcloud/Entropie Vol. 03/Radio War 7_
+skip /mnt/nextcloud/Entropie Vol. 03/Stadtgeil
+skip /mnt/nextcloud/Entropie Vol. 03/Teleporlectro
+skip /mnt/nextcloud/Entropie Vol. 03/The World Is Getting Colder
+skip /mnt/nextcloud/Entropie Vol. 03/unreleased
+skip /mnt/nextcloud/Enya/Enya Downloads
+skip /mnt/nextcloud/Enya/Relaxation
+skip /mnt/nextcloud/Enya/Unknown Album
+skip /mnt/nextcloud/Escape From NY/Disco Supreme Volume One
+skip /mnt/nextcloud/Esplendor Geometrico/Unknown Album
+skip /mnt/nextcloud/Europe/The best of Heavy Metal
+skip /mnt/nextcloud/Ex Post Facto/Atomic Shockwaves (diy)  Vol. 13
+skip /mnt/nextcloud/ex yu electronica/ex yu electronica
+duplicate-keep /mnt/nextcloud/Exotica/Kitsune Parisien WEB
+skip /mnt/nextcloud/Experimental Products/Unknown Album
+duplicate-keep /mnt/nextcloud/Étienne Charry/36 Erreurs
+import started Sat Jun  7 14:24:53 2025
+duplicate-keep /mnt/nextcloud/Consequential - MicroComposed 1980–86 (2018)
+skip /mnt/nextcloud/David Hallyday/Unknown Album
+skip /mnt/nextcloud/David Keaton/Live At Robert Johnson Volume 7 (Mixed By ATA)
+skip /mnt/nextcloud/David Keaton/Voyage Two VINYL
+skip /mnt/nextcloud/David Lynch/Les inrockuptibles Printemps été 2013
+duplicate-keep /mnt/nextcloud/david zed/Unknown Album
+duplicate-keep /mnt/nextcloud/De Frontanel/2005 - Grotesque
+duplicate-keep /mnt/nextcloud/De Frontanel/Le Monde Cruel De Katja (La Trilogie)
+duplicate-keep /mnt/nextcloud/Dead Can Dance/Into the labyrinth
+duplicate-keep /mnt/nextcloud/Dead Can Dance/Mon CD
+duplicate-keep /mnt/nextcloud/Dead Can Dance/Spiritchaser
+duplicate-keep /mnt/nextcloud/Dead Can Dance/Twilight Moons
+duplicate-keep /mnt/nextcloud/Dead Kennedys/Give Me Convenience Or Give Me Death
+duplicate-keep /mnt/nextcloud/Dead Kennedys/Holiday In Cambodia
+duplicate-keep /mnt/nextcloud/Death Grips/Exmilitary
+duplicate-keep /mnt/nextcloud/Death Grips/niggas on the moon
+duplicate-keep /mnt/nextcloud/Death Grips/NO LOVE DEEP WEB
+duplicate-keep /mnt/nextcloud/Death Grips/The Money Store
+duplicate-keep /mnt/nextcloud/Debout sur le Zinc/Des singes et des moutons
+duplicate-keep /mnt/nextcloud/Debout sur le Zinc/L' Homme à Tue Tête
+duplicate-keep /mnt/nextcloud/Debout sur le Zinc/L'Homme A Tue Tete
+duplicate-keep /mnt/nextcloud/Debout sur le Zinc/L'homme à tue-tête
+duplicate-keep /mnt/nextcloud/Debout sur le Zinc/Les Promesses
+skip /mnt/nextcloud/Debout Sur Le Zinc - Live/Show Case à la Fnac
+skip /mnt/nextcloud/Decadance/Dancefloor Gems 80's Vol. 10
+skip /mnt/nextcloud/Deep Purple/The best of Heavy Metal
+skip /mnt/nextcloud/Deetah; /mnt/nextcloud/Deetah/Pure Garage Presents 100 Garage Classics - CD4
+duplicate-keep /mnt/nextcloud/Defunk/Demixes
+duplicate-keep /mnt/nextcloud/Defunk/Fully Loaded Vol 3
+skip /mnt/nextcloud/Defunk/Unknown Album
+skip /mnt/nextcloud/Defunk/Want Blood Remixes
+skip /mnt/nextcloud/Defunk/www.soundcloud.com_defunk-music
+duplicate-keep /mnt/nextcloud/Delia Gonzalez & Gavin Russom/The Days Of Mars
+duplicate-keep /mnt/nextcloud/Demon/Blood Sport
+skip /mnt/nextcloud/Denki Groove vs. E-Pak-Sa/Hirake Pon-Chak
+skip /mnt/nextcloud/Der Plan/Tanzen Mit Vomi
+duplicate-keep /mnt/nextcloud/Der Zyklus/Biometry
+duplicate-keep /mnt/nextcloud/Der Zyklus/Der Tonimpulstest
+duplicate-keep /mnt/nextcloud/Der Zyklus/Der Zyklus II
+duplicate-keep /mnt/nextcloud/Destin/Kitsune Parisien WEB
+skip /mnt/nextcloud/Devendra Banhart/cripple creek
+duplicate-keep /mnt/nextcloud/Devendra Banhart/cripple crow
+duplicate-keep /mnt/nextcloud/Devendra Banhart/What Will We Be
+duplicate-keep /mnt/nextcloud/Devo/1978 Q- Are We Not Men A- We Are Devo_
+duplicate-keep /mnt/nextcloud/Devo/1980 Freedom Of Choice
+duplicate-keep /mnt/nextcloud/Devo/2010 Something for Everybody (Deluxe Version)
+duplicate-keep /mnt/nextcloud/Devo/Devo - (2002) The Essentials
+duplicate-keep /mnt/nextcloud/Dezarie/Fya
+duplicate-keep /mnt/nextcloud/Dezarie/Gracious mama africa
+duplicate-keep /mnt/nextcloud/Dégout [Mini LP]
+skip /mnt/nextcloud/Dharma/V.A. - I-Robots
+duplicate-keep /mnt/nextcloud/Diamonds/Lili Linda
+skip /mnt/nextcloud/Die Doraus Und Die Marinas/Unknown Album
+duplicate-keep /mnt/nextcloud/Die Egozentrischen 2/Der Aufstand der Chemiker LP
+skip /mnt/nextcloud/Die Gesunden/Tanzen Mit Vomi
+duplicate-keep /mnt/nextcloud/Die Radierer/1981 - Eisbären & Zitronen
+duplicate-keep /mnt/nextcloud/Die Radierer/1983 - In Hollywood
+skip /mnt/nextcloud/Die Radierer/Eisbären & Zitronen
+skip /mnt/nextcloud/Die Radierer/non dom tapes 79-80
+skip /mnt/nextcloud/Die Radierer/Tanzen Mit Vomi
+skip /mnt/nextcloud/Die Radierer/Unknown Album
+skip /mnt/nextcloud/Digital dance/Album
+skip /mnt/nextcloud/Digital Emotion/Digital Emotion
+import started Sat Jun  7 14:41:18 2025
+duplicate-keep /mnt/music/Benedict Cumberbatch/[2014]LateNightTales
+skip /mnt/music/Compilations/Cosmic Dancer - Voyage Two
+skip /mnt/music/Compilations/Demixes
+duplicate-keep /mnt/music/Compilations/Demixes [178]
+import started Sat Jun  7 14:43:43 2025
+import started Sat Jun  7 14:44:08 2025
+skip /mnt/music/Benedict Cumberbatch/[2014]LateNightTales
+skip /mnt/music/Bob James/[2014]LateNightTales
+skip /mnt/music/Canned Heat/[2014]LateNightTales
+skip /mnt/music/Compilations/Demixes [178]
+skip /mnt/music/Compilations/Good Morning England
+skip /mnt/music/Compilations/I Love Synthes12_er Dance Vol. 3
+skip /mnt/music/Compilations/Kitsuné Parisien
+skip /mnt/music/Compilations/Kitsuné Parisien [147]
+skip /mnt/music/Compilations/Kitsuné Parisien [185]
+skip /mnt/music/Compilations/Minimal Baby II
+skip /mnt/music/Compilations/Minimal Baby IV
+skip /mnt/music/Compilations/The Minimal Wave Tapes Volume One
+skip /mnt/music/Compilations/Yet Another Piece Of Future Landfill
+duplicate-keep /mnt/music/Consequential/[2018]MicroComposed 1980-86
+skip /mnt/music/Consequential/[2018]MicroComposed 1980-86; /mnt/music/Consequential/[2018]MicroComposed 1980-86 [159]/01-I Love Her.mp3; /mnt/music/Consequential/[2018]MicroComposed 1980-86 [159]/02-Magic Key.mp3; /mnt/music/Consequential/[2018]MicroComposed 1980-86 [159]/03- Behind The Soul.mp3; /mnt/music/Consequential/[2018]MicroComposed 1980-86 [159]/04-Vasiona Desire.mp3; /mnt/music/Consequential/[2018]MicroComposed 1980-86 [159]/05-Tokyo.mp3; /mnt/music/Consequential/[2018]MicroComposed 1980-86 [159]/06-Love To Me.mp3; /mnt/music/Consequential/[2018]MicroComposed 1980-86 [159]/07-Daydream.mp3; /mnt/music/Consequential/[2018]MicroComposed 1980-86 [159]/08-Danger Lover.mp3; /mnt/music/Consequential/[2018]MicroComposed 1980-86 [159]/09-Happy Together.mp3; /mnt/music/Consequential/[2018]MicroComposed 1980-86 [159]/10-Future.mp3
+skip /mnt/music/David Zed/[1980]R.O.B.O.T_
+skip /mnt/music/De Frontanel/[2004]Le Monde cruel de Katja (La trilogie)
+duplicate-keep /mnt/music/De Frontanel/[2005]Grotesque
+skip /mnt/music/De Frontanel/[2005]Grotesque; /mnt/music/De Frontanel/[2005]Grotesque [161]/01-La Curieuse Parade.mp3; /mnt/music/De Frontanel/[2005]Grotesque [161]/02-Autour Du Feu.mp3; /mnt/music/De Frontanel/[2005]Grotesque [161]/03-Elephantiasis.mp3; /mnt/music/De Frontanel/[2005]Grotesque [161]/04-L'Horloge Folle.mp3; /mnt/music/De Frontanel/[2005]Grotesque [161]/05-La Jument Boite.mp3; /mnt/music/De Frontanel/[2005]Grotesque [161]/06-Le Partenaire.mp3; /mnt/music/De Frontanel/[2005]Grotesque [161]/07-Grotesque.mp3; /mnt/music/De Frontanel/[2005]Grotesque [161]/08-La Femme Serpent.mp3; /mnt/music/De Frontanel/[2005]Grotesque [161]/09-Barbarie.mp3
+skip /mnt/music/Dead Can Dance/[1994]Twilight Moons
+skip /mnt/music/Dead Can Dance/[2008]Into the Labyrinth
+duplicate-keep /mnt/music/Dead Can Dance/[2008]Spiritchaser
+skip /mnt/music/Dead Can Dance/[2008]Spiritchaser; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/01-Nierika.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/02-Song of the Stars.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/03-Indus.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/04-Song of the Dispossessed.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/05-Dedicacé Outò.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/06-The Snake and the Moon.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/07-Song of the Nile.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/08-Devorzhum.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/09-Nierika.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/10-Song of the Stars.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/11-Indus.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/12-Song of the Dispossessed.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/13-Dedicacé Outò.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/14-The Snake and the Moon.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/15-Song of the Nile.mp3; /mnt/music/Dead Can Dance/[2008]Spiritchaser [165]/16-Devorzhum.mp3
+duplicate-keep /mnt/music/Dead Can Dance/[2012]Anastasis
+skip /mnt/music/Dead Can Dance/[2012]Anastasis; /mnt/music/Dead Can Dance/[2012]Anastasis [164]/01-Children of the Sun.m4a; /mnt/music/Dead Can Dance/[2012]Anastasis [164]/02-Anabasis.m4a; /mnt/music/Dead Can Dance/[2012]Anastasis [164]/03-Agape.m4a; /mnt/music/Dead Can Dance/[2012]Anastasis [164]/04-Amnesia.m4a; /mnt/music/Dead Can Dance/[2012]Anastasis [164]/05-Kiko.m4a; /mnt/music/Dead Can Dance/[2012]Anastasis [164]/06-Opium.m4a; /mnt/music/Dead Can Dance/[2012]Anastasis [164]/07-Return of the She‐King.m4a; /mnt/music/Dead Can Dance/[2012]Anastasis [164]/08-All in Good Time.m4a
+skip /mnt/music/Dead Kennedys/[1980]Holiday in Cambodia
+skip /mnt/music/Dead Kennedys/[2001]Give Me Convenience or Give Me Death
+skip /mnt/music/Death Grips/[2011]Exmilitary
+duplicate-keep /mnt/music/Death Grips/[2012]No Love Deep Web
+skip /mnt/music/Death Grips/[2012]No Love Deep Web; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/01-Come Up and Get Me.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/02-Lil Boy.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/03-No Love.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/04-Black Dice.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/05-World of Dogs.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/06-Lock Your Doors.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/07-Whammy.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/08-Hunger Games.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/09-Deep Web.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/10-Stockton.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/11-Pop.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/12-Bass Rattle Stars Out the Sky.mp3; /mnt/music/Death Grips/[2012]No Love Deep Web [171]/13-Artificial Death in the West.mp3
+duplicate-keep /mnt/music/Death Grips/[2012]The Money Store
+skip /mnt/music/Death Grips/[2012]The Money Store; /mnt/music/Death Grips/[2012]The Money Store [172]/01-Get Got.mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/02-The Fever (Aye Aye).mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/03-Lost Boys.mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/04-Blackjack.mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/05-Hustle Bones.mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/06-I’ve Seen Footage.mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/07-Double Helix.mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/08-System Blower.mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/09-The Cage.mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/10-Punk Weight.mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/11-Fuck That.mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/12-Bitch Please.mp3; /mnt/music/Death Grips/[2012]The Money Store [172]/13-Hacker.m4a
+duplicate-keep /mnt/music/Death Grips/[2014]niggas on the moon
+skip /mnt/music/Death Grips/[2014]niggas on the moon; /mnt/music/Death Grips/[2014]niggas on the moon [170]/01-Up My Sleeves.mp3; /mnt/music/Death Grips/[2014]niggas on the moon [170]/02-Billy Not Really.mp3; /mnt/music/Death Grips/[2014]niggas on the moon [170]/03-Black Quarterback.mp3; /mnt/music/Death Grips/[2014]niggas on the moon [170]/04-Say Hey Kid.mp3; /mnt/music/Death Grips/[2014]niggas on the moon [170]/05-Have a Sad Cum.mp3; /mnt/music/Death Grips/[2014]niggas on the moon [170]/06-Fuck Me Out.mp3; /mnt/music/Death Grips/[2014]niggas on the moon [170]/07-Voila.mp3; /mnt/music/Death Grips/[2014]niggas on the moon [170]/08-Big Dipper.mp3
+skip /mnt/music/Death Grips ft. Mexican Girl/[2011]Exmilitary
+skip /mnt/music/Debout sur le Zinc/[2005]L'Homme à tue-tête
+duplicate-keep /mnt/music/Debout sur le Zinc/[2006]Les Promesses
+skip /mnt/music/Debout sur le Zinc/[2006]Les Promesses; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/01-Des larmes sur ma manche.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/02-Rester debout.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/03-Un jour ou l'autre.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/04-Comme s'il en pleuvait.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/05-Te promettre la lune.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/06-Les Tontons.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/07-Fallait pas.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/08-La Déclaration.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/09-La Lettre perdue.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/10-Mieux que rien.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/11-De fil en aiguilles.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/12-Un défaut de toi.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/13-Anita.mp3; /mnt/music/Debout sur le Zinc/[2006]Les Promesses [177]/14-La Pantomime².mp3
+duplicate-keep /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons
+skip /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/01-Les Moutons.mp3; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/02-Le Bleu du miroir.mp3; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/03-Elle m’ennuie.mp3; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/04-Chut….mp3; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/05-Elle.mp3; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/06-Les Mots d’amour.mp3; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/07-Comme un ange.mp3; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/08-Si l’idée nous enchante.mp3; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/09-Les Voisins.mp3; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/10-Les Angles.mp3; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/11-Marée noire.mp3; /mnt/music/Debout sur le Zinc/[2012]Des singes et des moutons [173]/12-Hop là !.mp3
+duplicate-keep /mnt/music/Defunk/[2012]Fully Loaded, Volume 3
+skip /mnt/music/Defunk/[2012]Fully Loaded, Volume 3; /mnt/music/Defunk/[2012]Fully Loaded, Volume 3 [179]/01-Banjo Blues.mp3
+skip /mnt/music/Defunkt/[1980]Defunkt
+duplicate-keep /mnt/music/Delia Gonzalez & Gavin Russom/[2005]The Days of Mars
+skip /mnt/music/Delia Gonzalez & Gavin Russom/[2005]The Days of Mars; /mnt/music/Delia Gonzalez & Gavin Russom/[2005]The Days of Mars [180]/01-Rise.mp3; /mnt/music/Delia Gonzalez & Gavin Russom/[2005]The Days of Mars [180]/02-13 Moons.mp3; /mnt/music/Delia Gonzalez & Gavin Russom/[2005]The Days of Mars [180]/03-Relevée.mp3; /mnt/music/Delia Gonzalez & Gavin Russom/[2005]The Days of Mars [180]/04-Black Spring.mp3
+skip /mnt/music/Der Zyklus/''Der Tonimpulstest
+duplicate-keep /mnt/music/Der Zyklus/[2001]Der Zyklus II
+skip /mnt/music/Der Zyklus/[2001]Der Zyklus II; /mnt/music/Der Zyklus/[2001]Der Zyklus II [184]/01-Elektronisches Zeitecho.mp3; /mnt/music/Der Zyklus/[2001]Der Zyklus II [184]/02-Mxyzptlk.mp3; /mnt/music/Der Zyklus/[2001]Der Zyklus II [184]/03-Formenverwandler.mp3; /mnt/music/Der Zyklus/[2001]Der Zyklus II [184]/04-Mathematische Modelle.mp3
+duplicate-keep /mnt/music/Der Zyklus/[2004]Biometry
+skip /mnt/music/Der Zyklus/[2004]Biometry; /mnt/music/Der Zyklus/[2004]Biometry [182]/01-Biometry.mp3; /mnt/music/Der Zyklus/[2004]Biometry [182]/02-Polar Coordinates.mp3; /mnt/music/Der Zyklus/[2004]Biometry [182]/03-Eigenface (Facial Asymetry).mp3; /mnt/music/Der Zyklus/[2004]Biometry [182]/04-Biometric ID.mp3; /mnt/music/Der Zyklus/[2004]Biometry [182]/05-Biometric System.mp3; /mnt/music/Der Zyklus/[2004]Biometry [182]/06-Facial Vectors.mp3; /mnt/music/Der Zyklus/[2004]Biometry [182]/07-Hand Geometry.mp3; /mnt/music/Der Zyklus/[2004]Biometry [182]/08-Recognition Time.mp3; /mnt/music/Der Zyklus/[2004]Biometry [182]/09-Iris_Retinal Scanning.mp3; /mnt/music/Der Zyklus/[2004]Biometry [182]/10-Optical Fingerprint Correlation.mp3; /mnt/music/Der Zyklus/[2004]Biometry [182]/11-4000 Irises (2000) Persons Max_.mp3
+skip /mnt/music/Devendra Banhart/[2005]Cripple Crow
+duplicate-keep /mnt/music/Devendra Banhart/[2009]What Will We Be
+skip /mnt/music/Devendra Banhart/[2009]What Will We Be; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/01-Can’t Help but Smiling.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/02-Angelika.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/03-Baby.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/04-Goin’ Back.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/05-First Song for B.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/06-Last Song for B.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/07-Chin Chin & Muck Muck.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/08-16th & Valencia Roxy Music.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/09-Rats.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/10-Maria Lionza.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/11-Brindo.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/12-Meet Me at Lookout Point.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/13-Walilamdzi.mp3; /mnt/music/Devendra Banhart/[2009]What Will We Be [187]/14-Foolin’.mp3
+duplicate-keep /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo!
+skip /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo!; /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo! [188]/01-Uncontrollable Urge.mp3; /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo! [188]/02-(I Can’t Get No) Satisfaction.mp3; /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo! [188]/03-Praying Hands.mp3; /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo! [188]/04-Space Junk.mp3; /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo! [188]/05-Mongoloid.mp3; /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo! [188]/06-Jocko Homo.mp3; /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo! [188]/07-Too Much Paranoias.mp3; /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo! [188]/08-Gut Feeling _ (Slap Your Mammy).mp3; /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo! [188]/09-Come Back Jonee.mp3; /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo! [188]/10-Sloppy (I Saw My Baby Gettin’).mp3; /mnt/music/DEVO/[1978]Q_ Are We Not Men_ A_ We Are Devo! [188]/11-Shrivel‐Up.mp3
+duplicate-keep /mnt/music/DEVO/[1987]Freedom of Choice
+skip /mnt/music/DEVO/[1987]Freedom of Choice; /mnt/music/DEVO/[1987]Freedom of Choice [189]/01-Girl U Want.mp3; /mnt/music/DEVO/[1987]Freedom of Choice [189]/02-It’s Not Right.mp3; /mnt/music/DEVO/[1987]Freedom of Choice [189]/03-Whip It.mp3; /mnt/music/DEVO/[1987]Freedom of Choice [189]/04-Snowball.mp3; /mnt/music/DEVO/[1987]Freedom of Choice [189]/05-Ton o’ Luv.mp3; /mnt/music/DEVO/[1987]Freedom of Choice [189]/06-Freedom of Choice.mp3; /mnt/music/DEVO/[1987]Freedom of Choice [189]/07-Gates of Steel.mp3; /mnt/music/DEVO/[1987]Freedom of Choice [189]/08-Cold War.mp3; /mnt/music/DEVO/[1987]Freedom of Choice [189]/09-Don’t You Know.mp3; /mnt/music/DEVO/[1987]Freedom of Choice [189]/10-That’s Pep!.mp3; /mnt/music/DEVO/[1987]Freedom of Choice [189]/11-Mr. B’s Ballroom.mp3; /mnt/music/DEVO/[1987]Freedom of Choice [189]/12-Planet Earth.mp3
+duplicate-keep /mnt/music/DEVO/[2002]The Essentials
+skip /mnt/music/DEVO/[2002]The Essentials; /mnt/music/DEVO/[2002]The Essentials [191]/01-Jocko Homo.mp3; /mnt/music/DEVO/[2002]The Essentials [191]/02-Mongoloid.mp3; /mnt/music/DEVO/[2002]The Essentials [191]/03-Come Back Jonee.mp3; /mnt/music/DEVO/[2002]The Essentials [191]/04-(I Can't Get No) Satisfaction.mp3; /mnt/music/DEVO/[2002]The Essentials [191]/05-Secret Agent Man.mp3; /mnt/music/DEVO/[2002]The Essentials [191]/06-Smart Patrol _ Mr. Dna.mp3; /mnt/music/DEVO/[2002]The Essentials [191]/07-Freedom of Choice.mp3; /mnt/music/DEVO/[2002]The Essentials [191]/08-Whip It.mp3; /mnt/music/DEVO/[2002]The Essentials [191]/09-Girl U Want.mp3; /mnt/music/DEVO/[2002]The Essentials [191]/10-Jerkin' Back 'n' Forth.mp3; /mnt/music/DEVO/[2002]The Essentials [191]/11-Working in the Coal Mine.mp3; /mnt/music/DEVO/[2002]The Essentials [191]/12-Peek-A-Boo!.mp3
+duplicate-keep /mnt/music/DEVO/[2010]Something for Everybody
+skip /mnt/music/DEVO/[2010]Something for Everybody; /mnt/music/DEVO/[2010]Something for Everybody [190]/01-Fresh.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/02-What We Do.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/03-Please Baby Please.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/04-Don’t Shoot (I’m a Man).mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/05-Mind Games.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/06-Human Rocket.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/07-Sumthin’.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/08-Step Up.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/09-Cameo.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/10-Later Is Now.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/11-No Place Like Home.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/12-March On.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/13-Watch Us Work It.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/14-Signal Ready.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/15-Let’s Get to It.mp3; /mnt/music/DEVO/[2010]Something for Everybody [190]/16-Knock Boots.mp3
+duplicate-keep /mnt/music/Dezarie/[2001]Fya
+skip /mnt/music/Dezarie/[2001]Fya; /mnt/music/Dezarie/[2001]Fya [192]/01-Zion.wma; /mnt/music/Dezarie/[2001]Fya [192]/02-Omega.wma; /mnt/music/Dezarie/[2001]Fya [192]/03-Don't Cry.wma; /mnt/music/Dezarie/[2001]Fya [192]/04-Most High.wma; /mnt/music/Dezarie/[2001]Fya [192]/05-Love Yourself.wma; /mnt/music/Dezarie/[2001]Fya [192]/06-Flesh And Done.wma; /mnt/music/Dezarie/[2001]Fya [192]/07-Fya.wma; /mnt/music/Dezarie/[2001]Fya [192]/08-All Ova.wma; /mnt/music/Dezarie/[2001]Fya [192]/09-Walk Wid Me.wma; /mnt/music/Dezarie/[2001]Fya [192]/10-Rebel.wma; /mnt/music/Dezarie/[2001]Fya [192]/11-Jah Throne.wma; /mnt/music/Dezarie/[2001]Fya [192]/12-Mind Yu Own.wma; /mnt/music/Dezarie/[2001]Fya [192]/13-Sing Out.wma; /mnt/music/Dezarie/[2001]Fya [192]/14-Iron Sharpen Iron.wma; /mnt/music/Dezarie/[2001]Fya [192]/15-Fya Dub.wma
+duplicate-keep /mnt/music/Dezarie/[2003]Gracious Mama Africa
+skip /mnt/music/Dezarie/[2003]Gracious Mama Africa; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/01-Gone Down.mp3; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/02-Poverty.mp3; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/03-Not One Penny.mp3; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/04-Strengthen Your Mind.mp3; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/05-Law fe de Outlaw.mp3; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/06-Justice.mp3; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/07-Gracious Mama Africa.mp3; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/08-Exhalt.mp3; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/09-Mother and Child.mp3; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/10-Travelers.mp3; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/11-Slew Dem an Done.mp3; /mnt/music/Dezarie/[2003]Gracious Mama Africa [193]/12-Judgement Come.mp3
+skip /mnt/music/Diamonds/[1987]Lili Linda
+duplicate-keep /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker
+skip /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/01-Duchdrehn in der DB.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/02-Vergnügen.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/03-Der Aufstand der Chemiker.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/04-Zoll.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/05-Metallinvasion.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/06-Durchdrehn am Telefon.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/07-Wir haben Recht.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/08-Gegensätze.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/09-Aus dem Tagebuch eines Verfolgten.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/10-Computerschlagzeug.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/11-Parallelverschiebung.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/12-The Germans.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/13-Kunststoff.mp3; /mnt/music/Die Egozentrischen 2/[2005]Der Aufstand der Chemiker [196]/14-Stoppt die Zeit!!.mp3
+skip /mnt/music/Die Gesunden/[1982]Die Gesunden
+skip /mnt/music/Die Radierer/[1981]Eisbären & Zitronen [LP, Album, Stereo]
+duplicate-keep /mnt/music/Die Radierer/[1983]In Hollywood
+skip /mnt/music/Die Radierer/[1983]In Hollywood; /mnt/music/Die Radierer/[1983]In Hollywood [198]/01-Reiseglück.mp3; /mnt/music/Die Radierer/[1983]In Hollywood [198]/02-Der Rabe.mp3; /mnt/music/Die Radierer/[1983]In Hollywood [198]/03-Schule Für Schlechtes Benehmen.mp3; /mnt/music/Die Radierer/[1983]In Hollywood [198]/04-Batman.mp3; /mnt/music/Die Radierer/[1983]In Hollywood [198]/05-Plastik.mp3; /mnt/music/Die Radierer/[1983]In Hollywood [198]/06-Fotografin.mp3; /mnt/music/Die Radierer/[1983]In Hollywood [198]/07-Cowboys Auf Zebras.mp3; /mnt/music/Die Radierer/[1983]In Hollywood [198]/08-Zombie-Mädchen.mp3; /mnt/music/Die Radierer/[1983]In Hollywood [198]/09-Katzenfrau.mp3; /mnt/music/Die Radierer/[1983]In Hollywood [198]/10-Mutation.mp3; /mnt/music/Die Radierer/[1983]In Hollywood [198]/11-Schöne Frauen.mp3
+skip /mnt/music/Die Radierer/[1991]Eisbären & Zitronen
+skip /mnt/music/Digital Emotion/[1984]Digital Emotion
+skip /mnt/music/Digital Game/[1983]I'm Your Boogie Man
+skip /mnt/music/Dilated Peoples/[2001]Expansion Team
+skip /mnt/music/Dire Straits/[2015]Brothers in Arms
+skip /mnt/music/Disclosure/[2012]The Face EP
+skip /mnt/music/DJ Mehdi/[2006]Lucky Boy
+duplicate-keep /mnt/music/Django Django/[2012]Django Django
+skip /mnt/music/Django Django/[2012]Django Django; /mnt/music/Django Django/[2012]Django Django [Because Music]/01-Introduction.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/02-Hail Bop.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/03-Default.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/04-Firewater.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/05-Waveforms.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/06-Zumm Zumm.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/07-Hand of Man.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/08-Love's Dart.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/09-Wor.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/10-Storm.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/11-Life's a Beach.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/12-Skies Over Cairo.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/13-Silver Rays.mp3
+skip /mnt/music/Django Django/[2014]LateNightTales
+skip /mnt/music/Django Reinhardt/[2000]Minor Swing
+skip /mnt/music/Dodge & Fuski/[2011]Come Again EP
+skip /mnt/music/Don Choa/[2007]Jungle de béton
+skip /mnt/music/Don Choa feat. Billy Bats & Soprano/[2007]Jungle de béton
+skip /mnt/music/Don Choa feat. Le Rat Luciano & Menzo/[2007]Jungle de béton
+skip /mnt/music/Don Choa feat. Rickwel/[2007]Jungle de béton
+skip /mnt/music/Don Choa feat. Zaho/[2007]Jungle de béton
+skip /mnt/music/Dorine Hollier/[1984]Tonight.... Crazy Night
+skip /mnt/music/Double 99/[1997]Ripgroove
+skip /mnt/music/Dr. Steel/[2004]The Doctor Steel Collection
+skip /mnt/music/Dub Incorporation/[2015]Dans Le Décor
+skip /mnt/music/Dub Incorporation/[2015]Diversité
+skip /mnt/music/Dubtek/[2012]Extension _ Plus Ultra
+skip /mnt/music/Duckfoot Raised By Aliens/[2023]Freqs
+skip /mnt/music/Duckfoot Raised By Aliens ft. Odessa Vollan/[2023]Freqs
+skip /mnt/music/Duckfoot Raised By Aliens ft. Robert Bungalow/[2023]Freqs
+skip /mnt/music/Dusty Springfield/[1967]Dusty Springfield's Golden Hits
+skip /mnt/music/Eat Rabbit/[2009]Kiss the Dolphin
+skip /mnt/music/Ed Rush & Optical/[1998]Wormhole
+skip /mnt/music/Ed Rush & Optical/[2001]The Creeps
+skip /mnt/music/Ed Rush & Optical feat. Fierce/[1998]Wormhole
+skip /mnt/music/Eddie Vedder/[2008]Into The Wild
+skip /mnt/music/Edy Band/[1986]Sexy Lady
+skip /mnt/music/Eiffel 65/[1999]Europop
+skip /mnt/music/Einzelgänger , Giorgio Moroder/[1976]Einzelgänger
+skip /mnt/music/Electrelane/[2007]No Shouts, No Calls
+skip /mnt/music/Electric Mind/[1983]Can We Go
+skip /mnt/music/Electro Phonique/[1983]Danse Electronique
+skip /mnt/music/Electrocute/[2004]Troublesome Bubblegum
+skip /mnt/music/Eleven/[1986]No Sex Today
+skip /mnt/music/Elli & Jacno/[1994]Symphonies de poche
+skip /mnt/music/Eminem/[2009]Relapse
+skip /mnt/music/Empire/[1981]First Album
+skip /mnt/music/ENiGMA Dubz/[2012]Easy EP
+skip /mnt/music/Enrico Ruggeri/[1983]Polvere
+skip /mnt/music/Enya/[2000]Only Time
+skip /mnt/music/Esavu/[1983]Sia-Sioù (Breakin' Up)
+skip /mnt/music/Ethereal Beat/[1986]Underboard (Remix)
+skip /mnt/music/Ethno League/[1988]Radio Arabesque
+duplicate-keep /mnt/music/Etienne Charry/[1999]36 Erreurs
+skip /mnt/music/Etienne Charry/[1999]36 Erreurs; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/01-Fulgor.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/02-Rayé Du Bottin.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/03-Un Petit Pas Pour L'Homme.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/04-Je Tue Le Temps.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/05-La France Est En Vacances.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/06-Jour _J_.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/07-Prinsen Doppler.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/08-Par Ici La Monnaie.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/09-Train Train.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/10-Mélochœur.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/11-Tijuana.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/12-Les Gens Qu Les Voitures Écrasent.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/13-Sergent Crado.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/14-Pauvre Sélénite.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/15-Opéritif.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/16-La Bonne Étoile.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/17-Camping-Gaz.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/18-Passons L'Été.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/19-Solo Wah.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/20-Pax Part 1 _ Pax Part 2.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/21-Hit-Parade.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/22-Les Accords De Formica.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/23-Cœur Brisé.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/24-Toute Ma Vie.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/25-La Poï Poï Guitare.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/26-Le Monde Est Grand.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/27-Pendue Au Téléphone.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/28-Prinsen.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/29-Atomiquement Votre.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/30-Un Grand Bond Pour L'Humanité.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/31-Lui.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/32-Chawagawa.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/33-Dehors.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/34-Monza.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/35-Huit Heures.mp3; /mnt/music/Etienne Charry/[1999]36 Erreurs [152]/36-Bye Bye.mp3
+skip /mnt/music/Fable Time/[1989]Russia
+skip /mnt/music/Gulp/[2014]LateNightTales
+skip /mnt/music/Harry Nilsson/[2014]LateNightTales
+skip /mnt/music/James Last/[2014]LateNightTales
+skip /mnt/music/Leo Kottke/[2014]LateNightTales
+skip /mnt/music/Map Of Africa/[2014]LateNightTales
+skip /mnt/music/Massive Attack/[2014]LateNightTales
+skip /mnt/music/Optical/[1998]Wormhole
+skip /mnt/music/OutKast/[2014]LateNightTales
+skip /mnt/music/Philip Glass/[2014]LateNightTales
+skip /mnt/music/Pierre Raymonde/[1982]Erotic Aerobics
+skip /mnt/music/Primal Scream/[2014]LateNightTales
+skip /mnt/music/R.Demon/[2012]Blood Sport
+skip /mnt/music/R.Demon/[2012]Blood Sport [181]
+skip /mnt/music/Ramadanman/[2014]LateNightTales
+skip /mnt/music/Rick Miller/[2014]LateNightTales
+skip /mnt/music/Roy Davis Jr. Featuring Peven Everett/[2014]LateNightTales
+skip /mnt/music/Seals & Crofts/[2014]LateNightTales
+skip /mnt/music/The Beach Boys/[2014]LateNightTales
+duplicate-keep /mnt/music/The Master Scratch Band/[1984]Dégout
+skip /mnt/music/The Master Scratch Band/[1984]Dégout; /mnt/music/The Master Scratch Band/[1984]Dégout [194]/01-Break War.mp3; /mnt/music/The Master Scratch Band/[1984]Dégout [194]/02-Jailbreak.mp3; /mnt/music/The Master Scratch Band/[1984]Dégout [194]/03-M.S.B_.mp3; /mnt/music/The Master Scratch Band/[1984]Dégout [194]/04-Computer Break.mp3; /mnt/music/The Master Scratch Band/[1984]Dégout [194]/05-Do What You Wanna Do.mp3
+skip /mnt/music/The Millennium/[2014]LateNightTales
+skip /mnt/music/Timmy Thomas/[2014]LateNightTales
+skip /mnt/music/TNGHT/[2014]LateNightTales
+skip /mnt/music/Émilie Simon/[2006]Végétal
+import started Sat Jun  7 15:34:09 2025
+import started Sat Jun  7 15:36:33 2025
+import started Sat Jun  7 15:36:49 2025
+import started Sat Jun  7 15:37:24 2025
+skip /mnt/nextcloud/Digital Game/Best Of
+skip /mnt/nextcloud/Dilated Peoples/Expansion Team
+skip /mnt/nextcloud/Din Stalker
+skip /mnt/nextcloud/Dinosaures/BIENVENUE AU MONDE DES DINOSAURES
+skip /mnt/nextcloud/Dio/The best of Heavy Metal
+skip /mnt/nextcloud/Dire Straits/Brothers In Arms
+skip /mnt/nextcloud/Dire Straits/Unknown Album
+skip /mnt/nextcloud/Dirt Monkey and Jantsen/Dreamchaser EP
+duplicate-keep /mnt/nextcloud/Dirtwire/DIRTWIRE
+skip /mnt/nextcloud/Dirtwire/DIRTWIRE; /mnt/music/Dirtwire/[2012]Dirtwire/01-Amphibian Circuits.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/02-Back Home.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/03-Xiang Zone.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/04-Sailing the Solar Flares.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/05-Knock.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/06-Hunter's Harp.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/07-Rusted Railway.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/08-Freeka 5.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/09-Old Upright.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/10-Bed Spring.mp3
+duplicate-keep /mnt/nextcloud/Dirtwire - DIRTWIRE
+skip /mnt/nextcloud/Dirtwire - DIRTWIRE; /mnt/music/Dirtwire/[2012]Dirtwire/01-Amphibian Circuits.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/02-Back Home.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/03-Xiang Zone.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/04-Sailing the Solar Flares.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/05-Knock.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/06-Hunter's Harp.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/07-Rusted Railway.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/08-Freeka 5.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/09-Old Upright.mp3; /mnt/music/Dirtwire/[2012]Dirtwire/10-Bed Spring.mp3
+skip /mnt/nextcloud/Dirty Boyz/ABC...Euro-Italo-Disco vol.014
+duplicate-keep /mnt/nextcloud/Disc 2 - Ja Ja Ja - Ja Ja Ja (1982)
+skip /mnt/nextcloud/Disc 2 - Ja Ja Ja - Ja Ja Ja (1982); /mnt/music/Ja Ja Ja/[2012]Ja Ja Ja/01-Ain't Gonna Give Up Yet.flac; /mnt/music/Ja Ja Ja/[2012]Ja Ja Ja/02-Graffitti Artists International.flac; /mnt/music/Ja Ja Ja/[2012]Ja Ja Ja/03-Mom.flac; /mnt/music/Ja Ja Ja/[2012]Ja Ja Ja/04-I Am An Animal.flac; /mnt/music/Ja Ja Ja/[2012]Ja Ja Ja/05-On The Other Side.flac; /mnt/music/Ja Ja Ja/[2012]Ja Ja Ja/06-Red.flac; /mnt/music/Ja Ja Ja/[2012]Ja Ja Ja/07-Katz Rap.flac; /mnt/music/Ja Ja Ja/[2012]Ja Ja Ja/08-Ja! Ja! Ja!.flac; /mnt/music/Ja Ja Ja/[2012]Ja Ja Ja/09-Destiny.flac; /mnt/music/Ja Ja Ja/[2012]Ja Ja Ja/10-Habt Nicht Mehr Angst!.flac; /mnt/music/Ja Ja Ja/[2012]Ja Ja Ja/11-Bonustrack_ Katz Rap (Orginal Version).flac
+skip /mnt/nextcloud/Discey/Unknown Album
+skip /mnt/nextcloud/Disclosure/Les inrockuptibles Printemps été 2013
+skip /mnt/nextcloud/Disclosure/The Face EP
+skip /mnt/nextcloud/Diverse artiesten/The 90's hits
+skip /mnt/nextcloud/Diving With Andy/Les inrockuptibles Printemps été 2013
+skip /mnt/nextcloud/DJ Janko Nilovic Jr_/Unknown Album
+skip /mnt/nextcloud/Dj Mehdi/Lucky boy
+duplicate-keep /mnt/nextcloud/DJ Overdose - Bizarro World [2013] [Album]
+skip /mnt/nextcloud/DJ Overdose - Bizarro World [2013] [Album]; /mnt/music/DJ Overdose/[2013]Bizarro World/01-Aan de Overkant.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/02-Bizarro World.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/03-Bloed Aan de Muur.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/04-Ssa Gib a Htiw Lrig a Deen I.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/05-'s Nachts.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/06-Suck Chain.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/07-Fabriek.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/08-Dont Stop.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/09-Leegstand.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/10-Leipzig.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/11-Watch the City Burn.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/12-Kruipend Naar de Gootsteen.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/13-Stay on My Feet.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/14-Ruimtepuinruimer.mp3; /mnt/music/DJ Overdose/[2013]Bizarro World/15-Film Freak.mp3
+skip /mnt/nextcloud/DJ Premier/Unknown Album
+skip /mnt/nextcloud/DJ Premier/Unreleased Beats Volume 1
+skip /mnt/nextcloud/DJ Shadow, Beatie Boys, Mix Master Mike & Ronnie Size/Unknown Album
+duplicate-keep /mnt/nextcloud/Django Django
+skip /mnt/nextcloud/Django Django; /mnt/music/Django Django/[2012]Django Django/01-Introduction.mp3; /mnt/music/Django Django/[2012]Django Django/02-Hail Bop.mp3; /mnt/music/Django Django/[2012]Django Django/03-Default.mp3; /mnt/music/Django Django/[2012]Django Django/04-Firewater.mp3; /mnt/music/Django Django/[2012]Django Django/05-Waveforms.mp3; /mnt/music/Django Django/[2012]Django Django/06-Zumm Zumm.mp3; /mnt/music/Django Django/[2012]Django Django/07-Hand of Man.mp3; /mnt/music/Django Django/[2012]Django Django/08-Love's Dart.mp3; /mnt/music/Django Django/[2012]Django Django/09-Wor.mp3; /mnt/music/Django Django/[2012]Django Django/10-Storm.mp3; /mnt/music/Django Django/[2012]Django Django/11-Life's a Beach.mp3; /mnt/music/Django Django/[2012]Django Django/12-Skies Over Cairo.mp3; /mnt/music/Django Django/[2012]Django Django/13-Silver Rays.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/01-Introduction.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/02-Hail Bop.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/03-Default.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/04-Firewater.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/05-Waveforms.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/06-Zumm Zumm.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/07-Hand of Man.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/08-Love's Dart.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/09-Wor.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/10-Storm.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/11-Life's a Beach.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/12-Skies Over Cairo.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/13-Silver Rays.mp3
+duplicate-keep /mnt/nextcloud/Django Django/Django Django
+skip /mnt/nextcloud/Django Django/Django Django; /mnt/music/Django Django/[2012]Django Django/01-Introduction.mp3; /mnt/music/Django Django/[2012]Django Django/02-Hail Bop.mp3; /mnt/music/Django Django/[2012]Django Django/03-Default.mp3; /mnt/music/Django Django/[2012]Django Django/04-Firewater.mp3; /mnt/music/Django Django/[2012]Django Django/05-Waveforms.mp3; /mnt/music/Django Django/[2012]Django Django/06-Zumm Zumm.mp3; /mnt/music/Django Django/[2012]Django Django/07-Hand of Man.mp3; /mnt/music/Django Django/[2012]Django Django/08-Love's Dart.mp3; /mnt/music/Django Django/[2012]Django Django/09-Wor.mp3; /mnt/music/Django Django/[2012]Django Django/10-Storm.mp3; /mnt/music/Django Django/[2012]Django Django/11-Life's a Beach.mp3; /mnt/music/Django Django/[2012]Django Django/12-Skies Over Cairo.mp3; /mnt/music/Django Django/[2012]Django Django/13-Silver Rays.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/01-Introduction.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/02-Hail Bop.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/03-Default.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/04-Firewater.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/05-Waveforms.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/06-Zumm Zumm.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/07-Hand of Man.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/08-Love's Dart.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/09-Wor.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/10-Storm.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/11-Life's a Beach.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/12-Skies Over Cairo.mp3; /mnt/music/Django Django/[2012]Django Django [Because Music]/13-Silver Rays.mp3
+duplicate-keep /mnt/nextcloud/Django Django - Late Night Tales (2014)
+import started Sat Jun  7 15:43:08 2025
+duplicate-keep /mnt/nextcloud/Dirtwire/DIRTWIRE
+duplicate-keep /mnt/nextcloud/Dirtwire - DIRTWIRE
+duplicate-keep /mnt/nextcloud/Disc 2 - Ja Ja Ja - Ja Ja Ja (1982)
+duplicate-keep /mnt/nextcloud/DJ Overdose - Bizarro World [2013] [Album]
+duplicate-keep /mnt/nextcloud/Django Django
+duplicate-keep /mnt/nextcloud/Django Django - Late Night Tales (2014)
+duplicate-keep /mnt/nextcloud/Django Reinhardt/Minor Swing
+duplicate-keep /mnt/nextcloud/djjeck/[2012] Akufen - Dollhouse
+skip /mnt/nextcloud/Do Po/Unknown Album
+duplicate-keep /mnt/nextcloud/Dobacaracol/Soley
+skip /mnt/nextcloud/Dobacaracol/Unknown Album
+skip /mnt/nextcloud/Doctor L/Unknown Album
+duplicate-keep /mnt/nextcloud/Dodge & Fuski/Come Again EP [NSDX008]
+skip /mnt/nextcloud/Dodge & Fuski/Unknown Album
+skip /mnt/nextcloud/Doko/Unknown Album
+duplicate-keep /mnt/nextcloud/Don Choa/Jungle De Béton
+skip /mnt/nextcloud/Don Choa/Unknown Album
+skip /mnt/nextcloud/Donky Pitch/Boss Kite - Comicon EP
+duplicate-keep /mnt/nextcloud/Dopplereffekt/Calabi Yau Space
+duplicate-keep /mnt/nextcloud/Dopplereffekt/Linear Accellerator
+skip /mnt/nextcloud/Dopplereffekt/Live 2008-02-02, Inkonst, Malmö
+skip /mnt/nextcloud/Dorian Concept/Dorian Concept - Hide
+duplicate-keep /mnt/nextcloud/Dorine Hollier/Italo Disco Singles Collection Vol.3
+skip /mnt/nextcloud/Doris Day; /mnt/nextcloud/Doris Day/Golden Girl_ Columbia Recordings 1944-1966 Disc 2
+duplicate-keep /mnt/nextcloud/Dorothy's Magic Bag/(192) cats in my head ep
+duplicate-keep /mnt/nextcloud/Dorothy's Magic Bag/(192) dansmosaik
+duplicate-keep /mnt/nextcloud/Dorothy's Magic Bag/(192) ghostmachine (and other machines)
+duplicate-keep /mnt/nextcloud/Dorothy's Magic Bag/(192) sfinxen, påsen och garderoben
+duplicate-keep /mnt/nextcloud/Dorothy's Magic Bag/(192) viva la revolution_
+duplicate-keep /mnt/nextcloud/Dorothy's Magic Bag/(192) what's inside the magic bag
+duplicate-keep /mnt/nextcloud/Dorothy's Magic Bag/(vbr) fina fisken
+duplicate-keep /mnt/nextcloud/Dorothy's Magic Bag/(vbr) solens sista 120 dagar
+skip /mnt/nextcloud/DOS.putin - Da Bassmobile EP
+skip /mnt/nextcloud/dotdUmmy - Coaxial Moments
+duplicate-keep /mnt/nextcloud/Double 99/Ripgroove
+skip /mnt/nextcloud/Dr. Steel/The Dr. Steel Collection
+skip /mnt/nextcloud/Dream Theater/The best of Heavy Metal
+skip /mnt/nextcloud/Drenge/Les inrockuptibles Printemps été 2013
+skip /mnt/nextcloud/Dschinghis Khan/Dschinghis Khan
+skip /mnt/nextcloud/Dub Incorporation/Dans le decor
+skip /mnt/nextcloud/Dub Incorporation/Dans Le Décor
+skip /mnt/nextcloud/Dub Incorporation/Diversité
+skip /mnt/nextcloud/Dub Incorporation/Répétition
+skip /mnt/nextcloud/Dub Incorporation/Unknown Album
+skip /mnt/nextcloud/Dub Tractor 2DB4LiFE/-= 2DB RoX Yer SoX =-
+skip /mnt/nextcloud/Dubravka Tomšič/Beethoven_ Piano Concerto #1, Piano Sonata #21
+skip /mnt/nextcloud/Dubravka Tomšič/Chopin_ Piano Concerto #1, Preludes
+skip /mnt/nextcloud/Dubravka Tomšič; Anton Nanut_ Ljubljana Radio Symphony Orchestra/Beethoven_ Piano Concerto #1, Piano Sonata #21
+skip /mnt/nextcloud/Dubtek/Extension _ Plus Ultra
+skip /mnt/nextcloud/Duckfoot Raised By Aliens/Duckfoot Raised By Aliens - Freqs
+skip /mnt/nextcloud/Duffy/Good Morning England
+skip /mnt/nextcloud/Duke Slammer/Slamcast vol.4
+skip /mnt/nextcloud/Duke Slammer/Slamcast vol.6
+skip /mnt/nextcloud/Duke Slammer/Unknown Album
+skip /mnt/nextcloud/Dusk/Unknown Album
+skip /mnt/nextcloud/Dusty Springfield/Good Morning England
+skip /mnt/nextcloud/Dusty Springfield/Lock,Stock And Two Smoking Bar
+skip /mnt/nextcloud/Dusty Springfield/Unknown Album
+skip /mnt/nextcloud/E.S.M - Mynt [ESM 01 - 1987]
+skip /mnt/nextcloud/Eagles/Unknown Album
+duplicate-keep /mnt/nextcloud/East Wall - silence [elettrica dischi, ed 001]  (1991)
+skip /mnt/nextcloud/Easter/Unknown Album
+skip /mnt/nextcloud/Easter and the Totem/Unknown Album
+skip /mnt/nextcloud/Eat Rabbit/BrK SHOW vol2
+duplicate-keep /mnt/nextcloud/Eat Rabbit/Eat Rabbit - Safe tools
+skip /mnt/nextcloud/Eat Rabbit/Italo Dildos
+duplicate-keep /mnt/nextcloud/Eat Rabbit/Kiss The Dolphin
+skip /mnt/nextcloud/Eat Rabbit/Manimal Cannibal
+skip /mnt/nextcloud/Eat Rabbit/Movie ruiners (digital only)
+skip /mnt/nextcloud/Eat Rabbit/Preview
+skip /mnt/nextcloud/Eat Rabbit/Unknown Album
+skip /mnt/nextcloud/Eat Rabbit - Torturo - Felipe - Monsieur TuC/RadioClash #44
+skip /mnt/nextcloud/Echo & the Bunnymen/Donnie Darko Soundtrack
+duplicate-keep /mnt/nextcloud/Echo West/Minimal Baby II
+duplicate-keep /mnt/nextcloud/Echo West/Minimal Baby IV
+duplicate-keep /mnt/nextcloud/Ed Rush & Optical/The Creeps (CD2 - Mixed)
+duplicate-keep /mnt/nextcloud/Ed Rush & Optical/Wormhole (CD1)
+duplicate-keep /mnt/nextcloud/Eddie Vedder/2007 - Into The Wild (Music For The Motion Picture)
+duplicate-keep /mnt/nextcloud/Eddie Vedder/Into The Wild
+skip /mnt/nextcloud/Edsel Records; /mnt/nextcloud/Edsel Records/Into The Gap (Deluxe 2 CD Edition) (CD 1)
+skip /mnt/nextcloud/Edvard Grieg/Concerto pour piano en la mineur opus 16
+duplicate-keep /mnt/nextcloud/Edy Band/Sexy Lady
+duplicate-keep /mnt/nextcloud/Eero Johannes/Eero Johannes
+skip /mnt/nextcloud/Eero Johannes - Real Virtuality EP
+duplicate-keep /mnt/nextcloud/Ego/I ♥ Synthes12_er Dance Vol. 3
+skip /mnt/nextcloud/EIETHKSRKTuYL/EIETHKSRKTuYL
+skip /mnt/nextcloud/Eiffel 65/Europop
+skip /mnt/nextcloud/Eiffel 65/The Best Hits Of 90_s
+skip /mnt/nextcloud/Einsturzende Neubauten/Tanzen Mit Vomi
+skip /mnt/nextcloud/Einzelgänger/Unknown Album
+duplicate-keep /mnt/nextcloud/Ela Orleans/Tumult In Clouds
+skip /mnt/nextcloud/Electra/Gesloten Cirkel
+duplicate-keep /mnt/nextcloud/Electrelane/No Shouts, No Calls
+duplicate-keep /mnt/nextcloud/Electrelane/The Power Out
+duplicate-keep /mnt/nextcloud/Electric Mind/www.gentlecuts.net
+duplicate-keep /mnt/nextcloud/Electro Phonique/Danse Electronique
+duplicate-keep /mnt/nextcloud/Electrocute/Troublesome bubblegum
+duplicate-keep /mnt/nextcloud/Electronicat/2002 - Birds Want To Have Fun
+duplicate-keep /mnt/nextcloud/Electronicat/2003 - 21st Century Toy
+duplicate-keep /mnt/nextcloud/Electronicat/voodoo man
+duplicate-keep /mnt/nextcloud/Electrope Vol. I Never Judge A Tape By Its Cover (Compilation)
+duplicate-keep /mnt/nextcloud/elefantinabox/Caballero & JeanJass - High & Fines Herbes
+duplicate-keep /mnt/nextcloud/Eleven/No Sex Today
+duplicate-keep /mnt/nextcloud/Elli & Jacno/Symphonies de Poche
+duplicate-keep /mnt/nextcloud/Elli & Jacno /1980 - Tout va sauter [remastered edition]
+duplicate-keep /mnt/nextcloud/Elli & Jacno /elli & jacno - symphonies de poche
+skip /mnt/nextcloud/Ellington, Duke/The artist
+skip /mnt/nextcloud/Emilie Satt/Unknown Album
+duplicate-keep /mnt/nextcloud/Emilie Simon/Végétal
+duplicate-keep /mnt/nextcloud/Eminem/Relapse
+skip /mnt/nextcloud/Emissions Zéro
+duplicate-keep /mnt/nextcloud/Empire/First Album
+skip /mnt/nextcloud/En/Unknown Album
+duplicate-keep /mnt/nextcloud/ENiGMA Dubz/Easy EP
+duplicate-keep /mnt/nextcloud/Enrico Ruggeri/Polvere
+skip /mnt/nextcloud/Ensemble Pittoresque/VA - Vinyl Magazine Free Flexidiscs #3
+skip /mnt/nextcloud/entité sonore gangpol.inc/l'horreur est humaine
+skip /mnt/nextcloud/Entropie Vol. 03/1980-1982
+skip /mnt/nextcloud/Entropie Vol. 03/A Mysterious Design
+skip /mnt/nextcloud/Entropie Vol. 03/Accent
+skip /mnt/nextcloud/Entropie Vol. 03/Amor Y Néon 7_
+skip /mnt/nextcloud/Entropie Vol. 03/Blümchen 7''
+skip /mnt/nextcloud/Entropie Vol. 03/Circuit D'Actes
+skip /mnt/nextcloud/Entropie Vol. 03/Circuit D'Actes 2
+skip /mnt/nextcloud/Entropie Vol. 03/Darkness Before Dawn Vol. 01 Disc 02
+skip /mnt/nextcloud/Entropie Vol. 03/Des Jeunes Gens Mödernes
+skip /mnt/nextcloud/Entropie Vol. 03/Le Malade Roi _ Elan
+skip /mnt/nextcloud/Entropie Vol. 03/Love Will Tear Us Apart 12_
+skip /mnt/nextcloud/Entropie Vol. 03/Magic
+skip /mnt/nextcloud/Entropie Vol. 03/Minimal Baby V
+skip /mnt/nextcloud/Entropie Vol. 03/N'en Parlons Plus _ Un Monde Sans Évasion Possible
+skip /mnt/nextcloud/Entropie Vol. 03/Pierre Normal
+skip /mnt/nextcloud/Entropie Vol. 03/Radio War 7_
+skip /mnt/nextcloud/Entropie Vol. 03/Stadtgeil
+skip /mnt/nextcloud/Entropie Vol. 03/Teleporlectro
+skip /mnt/nextcloud/Entropie Vol. 03/The World Is Getting Colder
+skip /mnt/nextcloud/Entropie Vol. 03/unreleased
+skip /mnt/nextcloud/Enya/Enya Downloads
+duplicate-keep /mnt/nextcloud/Enya/Only Time CDS
+skip /mnt/nextcloud/Enya/Relaxation
+duplicate-keep /mnt/nextcloud/Enya/The Best Of Enya - Paint The Sky With Stars
+duplicate-keep /mnt/nextcloud/Enya/The Very Best of Enya
+skip /mnt/nextcloud/Enya/Unknown Album
+duplicate-keep /mnt/nextcloud/Epic Schmetterling - Démo
+duplicate-keep /mnt/nextcloud/erotic aerobics
+duplicate-keep /mnt/nextcloud/Esavu/Unknown Album
+skip /mnt/nextcloud/Escape From NY/Disco Supreme Volume One
+skip /mnt/nextcloud/Esplendor Geometrico/The Minimal Wave Tapes, Volume One
+skip /mnt/nextcloud/Esplendor Geometrico/Unknown Album
+duplicate-keep /mnt/nextcloud/Ethereal Beat/Underboard (Remix)
+duplicate-keep /mnt/nextcloud/Ethno League/Unknown Album
+duplicate-keep /mnt/nextcloud/etienne charry - 36 erreurs
+skip /mnt/nextcloud/Europe/The best of Heavy Metal
+skip /mnt/nextcloud/Ex Post Facto/Atomic Shockwaves (diy)  Vol. 13
+skip /mnt/nextcloud/ex yu electronica/ex yu electronica
+duplicate-keep /mnt/nextcloud/Exotica/Kitsune Parisien WEB
+skip /mnt/nextcloud/Experimental Products/Unknown Album
+skip /mnt/nextcloud/explicit corpse/yet another piece of future landfill
+duplicate-keep /mnt/nextcloud/Extra-Tourist - Adventure Time
+duplicate-keep /mnt/nextcloud/Eyeliner - High Fashion Mood Music
+duplicate-keep /mnt/nextcloud/Eyeliner - LARP of Luxury
+duplicate-keep /mnt/nextcloud/Étienne Charry/36 Erreurs
+duplicate-keep /mnt/nextcloud/Fable Time/Unknown Album
+duplicate-keep /mnt/nextcloud/Faceless Mind/Datacat Vinyl
+duplicate-keep /mnt/nextcloud/Faceless Mind/Drakskeppet
+duplicate-keep /mnt/nextcloud/Faceless Mind/Faceless
+duplicate-keep /mnt/nextcloud/Faceless Mind/Glasriket
+duplicate-keep /mnt/nextcloud/Faceless Mind/Mirror Of Your Face
+import started Sat Jun  7 16:09:00 2025
+duplicate-keep /mnt/nextcloud/Consequential - MicroComposed 1980–86 (2018)
+skip /mnt/nextcloud/David Hallyday/Unknown Album
+skip /mnt/nextcloud/David Keaton/Live At Robert Johnson Volume 7 (Mixed By ATA)
+duplicate-keep /mnt/nextcloud/David Keaton/Voyage Two VINYL
+skip /mnt/nextcloud/David Lynch/Les inrockuptibles Printemps été 2013
+duplicate-keep /mnt/nextcloud/david zed/Unknown Album
+duplicate-keep /mnt/nextcloud/De Frontanel/2005 - Grotesque
+duplicate-keep /mnt/nextcloud/De Frontanel/Le Monde Cruel De Katja (La Trilogie)
+duplicate-keep /mnt/nextcloud/Dead Can Dance/Into the labyrinth
+duplicate-keep /mnt/nextcloud/Dead Can Dance/Mon CD
+duplicate-keep /mnt/nextcloud/Dead Can Dance/Spiritchaser
+duplicate-keep /mnt/nextcloud/Dead Can Dance/Twilight Moons
+import started Sat Jun  7 16:37:05 2025
+skip /mnt/nextcloud/Dead Kennedys/Give Me Convenience Or Give Me Death
+skip /mnt/nextcloud/Dead Kennedys/Holiday In Cambodia
+skip /mnt/nextcloud/Death Grips/The Money Store
+skip /mnt/nextcloud/Debout sur le Zinc/L' Homme à Tue Tête
+skip /mnt/nextcloud/Debout sur le Zinc/L'Homme A Tue Tete
+skip /mnt/nextcloud/Debout sur le Zinc/L'homme à tue-tête
+skip /mnt/nextcloud/Debout Sur Le Zinc - Live/Show Case à la Fnac
+skip /mnt/nextcloud/Decadance/Dancefloor Gems 80's Vol. 10
+skip /mnt/nextcloud/Deetah; /mnt/nextcloud/Deetah/Pure Garage Presents 100 Garage Classics - CD4
+skip /mnt/nextcloud/Defunk/Demixes
+skip /mnt/nextcloud/Defunk/Unknown Album
+skip /mnt/nextcloud/Defunk/Want Blood Remixes
+skip /mnt/nextcloud/Defunk/www.soundcloud.com_defunk-music
+skip /mnt/nextcloud/Demon/Blood Sport
+skip /mnt/nextcloud/Denki Groove vs. E-Pak-Sa/Hirake Pon-Chak
+skip /mnt/nextcloud/Der Plan/Tanzen Mit Vomi
+skip /mnt/nextcloud/Der Zyklus/Der Tonimpulstest
+skip /mnt/nextcloud/Destin/Kitsune Parisien WEB
+skip /mnt/nextcloud/Devendra Banhart/cripple creek
+skip /mnt/nextcloud/Devendra Banhart/cripple crow
+skip /mnt/nextcloud/Dezarie/Fya
+skip /mnt/nextcloud/Dharma/V.A. - I-Robots
+skip /mnt/nextcloud/Diamonds/Lili Linda
+skip /mnt/nextcloud/Die Doraus Und Die Marinas/Unknown Album
+skip /mnt/nextcloud/Die Gesunden/Tanzen Mit Vomi
+skip /mnt/nextcloud/Die Radierer/1981 - Eisbären & Zitronen
+skip /mnt/nextcloud/Die Radierer/Eisbären & Zitronen
+skip /mnt/nextcloud/Die Radierer/non dom tapes 79-80
+skip /mnt/nextcloud/Die Radierer/Tanzen Mit Vomi
+skip /mnt/nextcloud/Die Radierer/Unknown Album
+skip /mnt/nextcloud/Digital dance/Album
+skip /mnt/nextcloud/Digital Emotion/Digital Emotion
+skip /mnt/nextcloud/Digital Game/Best Of
+skip /mnt/nextcloud/Dilated Peoples/Expansion Team
+skip /mnt/nextcloud/Din Stalker
+skip /mnt/nextcloud/Dinosaures/BIENVENUE AU MONDE DES DINOSAURES
+skip /mnt/nextcloud/Dio/The best of Heavy Metal
+skip /mnt/nextcloud/Dire Straits/Brothers In Arms
+skip /mnt/nextcloud/Dire Straits/Unknown Album
+skip /mnt/nextcloud/Dirt Monkey and Jantsen/Dreamchaser EP
+skip /mnt/nextcloud/Dirty Boyz/ABC...Euro-Italo-Disco vol.014
+skip /mnt/nextcloud/Discey/Unknown Album
+skip /mnt/nextcloud/Disclosure/Les inrockuptibles Printemps été 2013
+skip /mnt/nextcloud/Disclosure/The Face EP
+skip /mnt/nextcloud/Diverse artiesten/The 90's hits
+skip /mnt/nextcloud/Diving With Andy/Les inrockuptibles Printemps été 2013
+skip /mnt/nextcloud/DJ Janko Nilovic Jr_/Unknown Album
+skip /mnt/nextcloud/Dj Mehdi/Lucky boy
+skip /mnt/nextcloud/DJ Premier/Unknown Album
+skip /mnt/nextcloud/DJ Premier/Unreleased Beats Volume 1
+skip /mnt/nextcloud/DJ Shadow, Beatie Boys, Mix Master Mike & Ronnie Size/Unknown Album
+import started Sat Jun  7 16:46:32 2025
+import started Sat Jun  7 16:46:43 2025
+skip /mnt/nextcloud/David Hallyday/Unknown Album
+asis /mnt/nextcloud/David Keaton/Live At Robert Johnson Volume 7 (Mixed By ATA)
+asis /mnt/nextcloud/David Lynch/Les inrockuptibles Printemps été 2013
+duplicate-keep /mnt/nextcloud/Debout sur le Zinc/L'Homme A Tue Tete
+import started Sat Jun  7 17:42:59 2025
+import started Sat Jun  7 17:43:10 2025
+skip /mnt/nextcloud/Death Grips/The Money Store
+import started Sat Jun  7 17:43:36 2025
+duplicate-keep /mnt/nextcloud/Debout sur le Zinc/L'Homme A Tue Tete
+duplicate-keep /mnt/nextcloud/Debout sur le Zinc/L'homme à tue-tête
+import started Sat Jun  7 17:48:38 2025
+skip /mnt/nextcloud/Defunk/www.soundcloud.com_defunk-music
+import started Sat Jun  7 17:52:17 2025
+duplicate-keep /mnt/nextcloud/Destin/Kitsune Parisien WEB
+duplicate-keep /mnt/nextcloud/Devendra Banhart/cripple crow
+duplicate-keep /mnt/nextcloud/Devendra Banhart/cripple crow; /mnt/music/Devendra Banhart/[2005]Cripple Crow/06-Quédate Luna.mp3; /mnt/music/Devendra Banhart/[2005]Cripple Crow/10-The Beatles.mp3; /mnt/music/Devendra Banhart/[2005]Cripple Crow/11-Dragonflys.mp3; /mnt/music/Devendra Banhart/[2005]Cripple Crow/12-Cripple Crow.mp3; /mnt/nextcloud/Devendra Banhart/cripple creek/13 Devendra Banhart _ In Niel.mp3; /mnt/nextcloud/Devendra Banhart/cripple creek/14 Devendra Banhart _ Mama Wolf.mp3
+import started Sat Jun  7 17:54:54 2025
+duplicate-keep /mnt/nextcloud/Devendra Banhart/cripple crow
+duplicate-keep /mnt/nextcloud/Die Radierer/Eisbären & Zitronen
+asis /mnt/nextcloud/Die Radierer/Tanzen Mit Vomi
+asis /mnt/nextcloud/Din Stalker
+asis /mnt/nextcloud/Dinosaures/BIENVENUE AU MONDE DES DINOSAURES
+skip /mnt/nextcloud/Dio/The best of Heavy Metal
+skip /mnt/nextcloud/Dire Straits/Unknown Album
+import started Sat Jun  7 18:10:45 2025
+duplicate-keep /mnt/nextcloud/Devendra Banhart/cripple crow
+skip /mnt/nextcloud/Disclosure/Les inrockuptibles Printemps été 2013
+import started Sat Jun  7 18:13:56 2025
+duplicate-keep /mnt/nextcloud/Devendra Banhart/cripple crow
+skip /mnt/nextcloud/Diving With Andy/Les inrockuptibles Printemps été 2013
+asis /mnt/nextcloud/DJ Janko Nilovic Jr_/Unknown Album
+asis /mnt/nextcloud/DJ Premier/Unknown Album
+asis /mnt/nextcloud/DJ Premier/Unreleased Beats Volume 1
+asis /mnt/nextcloud/DJ Shadow, Beatie Boys, Mix Master Mike & Ronnie Size/Unknown Album/Squarepusher - Late Night Ambient Mix.mp3
+skip /mnt/nextcloud/Dobacaracol/Unknown Album
+skip /mnt/nextcloud/Doctor L/Unknown Album
+duplicate-keep /mnt/nextcloud/Dodge & Fuski/Unknown Album
+asis /mnt/nextcloud/Doko/Unknown Album
+duplicate-keep /mnt/nextcloud/Don Choa/Jungle De Béton
+skip /mnt/nextcloud/Don Choa/Unknown Album/don choa - 7h du mat.mp3
+asis /mnt/nextcloud/Dopplereffekt/Live 2008-02-02, Inkonst, Malmö
+skip /mnt/nextcloud/Dream Theater/The best of Heavy Metal
+skip /mnt/nextcloud/Drenge/Les inrockuptibles Printemps été 2013
+duplicate-keep /mnt/nextcloud/Dub Incorporation/Dans Le Décor
+skip /mnt/nextcloud/Dub Incorporation/Répétition/02 Number One.mp3
+skip /mnt/nextcloud/Dub Tractor 2DB4LiFE/-= 2DB RoX Yer SoX =-
+skip /mnt/nextcloud/Duffy/Good Morning England
+asis /mnt/nextcloud/Duke Slammer/Slamcast vol.4
+asis /mnt/nextcloud/Duke Slammer/Slamcast vol.6/Ultra Funkula.mp3
+skip /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Everybody sweat.mp3
+asis /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - GO$$IP.mp3
+asis /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Ol' Dirty Tape.mp3
+duplicate-keep /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Ol' Dirty Tape.mp3
+asis /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Ol' Dirty Tape.mp3
+duplicate-keep /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Ol' Dirty Tape.mp3
+asis /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Ol' Dirty Tape.mp3; /mnt/music/Non-Album/Duke Slammer.mp3
+asis /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Pachinko Wizard.mp3
+asis /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Shibuya Shibuya.mp3
+duplicate-keep /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Shibuya Shibuya.mp3
+asis /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Shibuya Shibuya.mp3; /mnt/music/Non-Album/Duke Slammer.mp3
+duplicate-keep /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Shibuya Shibuya.mp3; /mnt/music/Non-Album/Duke Slammer.mp3
+asis /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Shibuya Shibuya.mp3; /mnt/music/Non-Album/Duke Slammer.mp3; /mnt/music/Duke Slammer/''/''.mp3; /mnt/music/Duke Slammer/''/''.1.mp3
+skip /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - VHS Distress.mp3
+skip /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - Watch Betsy Boogie.mp3
+skip /mnt/nextcloud/Duke Slammer/Unknown Album/Duke Slammer - What four.mp3
+import started Sat Jun  7 18:45:00 2025
+duplicate-keep /mnt/nextcloud/Don Choa/Jungle De Béton
+asis /mnt/nextcloud/Don Choa/Unknown Album/don choa - 7h du mat.mp3
+skip /mnt/nextcloud/Duke Slammer/Unknown Album
+import started Sat Jun  7 18:47:26 2025
+skip /mnt/nextcloud/Duke Slammer/Unknown Album
+skip /mnt/nextcloud/E.S.M - Mynt [ESM 01 - 1987]
+asis /mnt/nextcloud/Eat Rabbit/BrK SHOW vol2
+asis /mnt/nextcloud/Eat Rabbit/Italo Dildos
+asis /mnt/nextcloud/Eat Rabbit/Manimal Cannibal
+asis /mnt/nextcloud/Eat Rabbit/Movie ruiners (digital only)
+asis /mnt/nextcloud/Eat Rabbit/Preview
+asis /mnt/nextcloud/Eat Rabbit/Unknown Album
+asis /mnt/nextcloud/Eat Rabbit - Torturo - Felipe - Monsieur TuC/RadioClash #44
+asis /mnt/nextcloud/Echo & the Bunnymen/Donnie Darko Soundtrack
+asis /mnt/nextcloud/Eero Johannes - Real Virtuality EP
+skip /mnt/nextcloud/EIETHKSRKTuYL/EIETHKSRKTuYL
+duplicate-keep /mnt/nextcloud/Electrelane/The Power Out
+asis /mnt/nextcloud/Emissions Zéro
+skip /mnt/nextcloud/En/Unknown Album
+skip /mnt/nextcloud/entité sonore gangpol.inc/l'horreur est humaine/11 musicodrame pour présence synthétique.mp3
+skip /mnt/nextcloud/Entropie Vol. 03/1980-1982
+skip /mnt/nextcloud/Entropie Vol. 03/A Mysterious Design
+skip /mnt/nextcloud/Entropie Vol. 03/Accent
+skip /mnt/nextcloud/Entropie Vol. 03/Amor Y Néon 7_
+skip /mnt/nextcloud/Entropie Vol. 03/Blümchen 7''
+skip /mnt/nextcloud/Entropie Vol. 03/Circuit D'Actes
+skip /mnt/nextcloud/Entropie Vol. 03/Circuit D'Actes 2
+skip /mnt/nextcloud/Entropie Vol. 03/Darkness Before Dawn Vol. 01 Disc 02
+skip /mnt/nextcloud/Entropie Vol. 03/Des Jeunes Gens Mödernes
+skip /mnt/nextcloud/Entropie Vol. 03/Le Malade Roi _ Elan
+skip /mnt/nextcloud/Entropie Vol. 03/Love Will Tear Us Apart 12_
+skip /mnt/nextcloud/Entropie Vol. 03/Magic
+skip /mnt/nextcloud/Entropie Vol. 03/Minimal Baby V
+skip /mnt/nextcloud/Entropie Vol. 03/N'en Parlons Plus _ Un Monde Sans Évasion Possible
+skip /mnt/nextcloud/Entropie Vol. 03/Pierre Normal
+skip /mnt/nextcloud/Entropie Vol. 03/Radio War 7_
+skip /mnt/nextcloud/Entropie Vol. 03/Stadtgeil
+skip /mnt/nextcloud/Entropie Vol. 03/Teleporlectro
+skip /mnt/nextcloud/Entropie Vol. 03/The World Is Getting Colder
+skip /mnt/nextcloud/Entropie Vol. 03/unreleased
+asis /mnt/nextcloud/Enya/Enya Downloads/Enya - The Hills Of Ireland.mp3
+asis /mnt/nextcloud/Enya/Relaxation
+asis /mnt/nextcloud/Enya/Unknown Album
+skip /mnt/nextcloud/Europe/The best of Heavy Metal
+asis /mnt/nextcloud/Ex Post Facto/Atomic Shockwaves (diy)  Vol. 13
+asis /mnt/nextcloud/Experimental Products/Unknown Album
+import started Sat Jun  7 19:14:06 2025
+skip /mnt/nextcloud/entité sonore gangpol.inc/l'horreur est humaine
+skip /mnt/nextcloud/Ex Post Facto/Atomic Shockwaves (diy)  Vol. 13
+skip /mnt/nextcloud/ex yu electronica/ex yu electronica
+skip /mnt/nextcloud/Experimental Products/Unknown Album
+skip /mnt/nextcloud/explicit corpse/yet another piece of future landfill
+import started Sat Jun  7 19:16:11 2025
+asis /mnt/nextcloud/Duke Slammer/Unknown Album
+duplicate-keep /mnt/nextcloud/Duke Slammer/Unknown Album
+asis /mnt/nextcloud/Duke Slammer/Unknown Album; /mnt/music/Duke Slammer/''/''.2.mp3; /mnt/music/Duke Slammer/''/''.3.mp3; /mnt/music/Duke Slammer/''/''.mp3; /mnt/music/Duke Slammer/''/''.4.mp3
+asis /mnt/nextcloud/E.S.M - Mynt [ESM 01 - 1987]
+duplicate-keep /mnt/nextcloud/E.S.M - Mynt [ESM 01 - 1987]
+asis /mnt/nextcloud/E.S.M - Mynt [ESM 01 - 1987]; /mnt/music/_/''/''.mp3; /mnt/music/_/''/''.1.mp3; /mnt/music/_/''/''.2.mp3; /mnt/music/_/''/''.3.mp3; /mnt/music/_/''/''.4.mp3; /mnt/music/_/''/''.5.mp3; /mnt/music/_/''/''.6.mp3; /mnt/music/_/''/''.7.mp3; /mnt/music/_/''/''.8.mp3; /mnt/music/_/''/''.9.mp3; /mnt/music/_/''/''.10.mp3; /mnt/music/_/''/''.11.mp3; /mnt/music/_/''/''.12.mp3; /mnt/music/_/''/''.13.mp3; /mnt/music/_/''/''.14.mp3; /mnt/music/_/''/''.15.mp3; /mnt/music/_/''/''.16.mp3; /mnt/music/_/''/''.17.mp3; /mnt/music/_/''/''.18.mp3; /mnt/music/_/''/''.19.mp3; /mnt/music/_/''/''.20.mp3; /mnt/music/_/''/''.21.mp3; /mnt/music/_/''/''.22.mp3; /mnt/music/_/''/''.23.mp3; /mnt/music/_/''/''.24.mp3; /mnt/music/_/''/''.25.mp3; /mnt/music/_/''/''.26.mp3; /mnt/music/_/''/''.27.mp3; /mnt/music/_/''/''.28.mp3; /mnt/music/_/''/''.29.mp3; /mnt/music/_/''/''.30.mp3; /mnt/music/_/''/''.31.mp3; /mnt/music/_/''/''.32.mp3; /mnt/music/_/''/''.33.mp3; /mnt/music/_/''/''.34.mp3; /mnt/music/_/''/''.35.mp3; /mnt/music/_/''/''.36.mp3; /mnt/music/_/''/''.37.mp3; /mnt/music/_/''/''.38.mp3; /mnt/music/_/''/''.39.mp3; /mnt/music/_/''/''.40.mp3; /mnt/music/_/''/''.41.mp3; /mnt/music/_/''/''.42.mp3; /mnt/music/_/''/''.43.mp3; /mnt/music/_/''/''.44.mp3; /mnt/music/_/''/''.45.mp3; /mnt/music/_/''/''.46.mp3; /mnt/music/_/''/''.47.mp3; /mnt/music/_/''/''.48.mp3; /mnt/music/_/''/''.49.mp3; /mnt/music/_/''/''.50.mp3; /mnt/music/_/''/''.51.mp3; /mnt/music/_/''/''.52.mp3; /mnt/music/_/''/''.53.mp3; /mnt/music/_/''/''.54.mp3; /mnt/music/_/''/''.55.mp3; /mnt/music/_/''/''.56.mp3; /mnt/music/_/''/''.57.mp3; /mnt/music/_/''/''.58.mp3; /mnt/music/_/''/''.59.mp3; /mnt/music/_/''/''.60.mp3; /mnt/music/_/''/''.61.mp3; /mnt/music/_/''/''.62.mp3; /mnt/music/_/''/''.63.mp3; /mnt/music/_/''/''.64.mp3; /mnt/music/_/''/''.65.mp3; /mnt/music/_/''/''.66.mp3; /mnt/music/_/''/''.67.mp3; /mnt/music/_/''/''.68.mp3; /mnt/music/_/''/''.69.mp3; /mnt/music/_/''/''.70.mp3; /mnt/music/_/''/''.71.mp3; /mnt/music/_/''/''.72.mp3; /mnt/music/_/''/''.73.mp3; /mnt/music/_/''/''.74.mp3; /mnt/music/_/''/''.75.mp3; /mnt/music/_/''/''.76.mp3; /mnt/music/_/''/''.77.mp3; /mnt/music/_/''/''.78.mp3; /mnt/music/_/''/''.79.mp3; /mnt/music/_/''/''.80.mp3; /mnt/music/_/''/''.81.mp3; /mnt/music/_/''/''.82.mp3; /mnt/music/_/''/''.83.mp3; /mnt/music/_/''/''.84.mp3; /mnt/music/_/''/''.85.mp3; /mnt/music/_/''/''.86.mp3; /mnt/music/_/''/''.87.mp3; /mnt/music/_/''/''.88.mp3; /mnt/music/_/''/''.89.mp3; /mnt/music/_/''/''.90.mp3; /mnt/music/_/''/''.91.mp3; /mnt/music/_/''/''.92.mp3; /mnt/music/_/''/''.93.mp3; /mnt/music/_/''/''.94.mp3; /mnt/music/_/''/''.95.mp3; /mnt/music/_/''/''.96.mp3; /mnt/music/_/''/''.97.mp3; /mnt/music/_/''/''.98.mp3; /mnt/music/_/''/''.99.mp3; /mnt/music/_/''/''.100.mp3; /mnt/music/_/''/''.101.mp3; /mnt/music/_/''/''.102.mp3
+import started Sat Jun  7 19:41:10 2025
+asis /app/source/DJ Premier/''
+duplicate-keep /app/source/DJ Premier/''
+asis /app/source/DJ Premier/''; /mnt/music/DJ Premier/''/05-Boom RMX.mp3
+asis /app/source/DJ Premier/[1999]Unreleased Beats Volume 1
+duplicate-keep /app/source/DJ Premier/[1999]Unreleased Beats Volume 1
+asis /app/source/DJ Premier/[1999]Unreleased Beats Volume 1; /mnt/music/DJ Premier/[1999]Unreleased Beats Volume 1/''DJ Premier Beat 1.mp3; /mnt/music/DJ Premier/[1999]Unreleased Beats Volume 1/''DJ Premier Beat 10.mp3; /mnt/music/DJ Premier/[1999]Unreleased Beats Volume 1/''DJ Premier Beat 11.mp3; /mnt/music/DJ Premier/[1999]Unreleased Beats Volume 1/''DJ Premier Beat 13.mp3; /mnt/music/DJ Premier/[1999]Unreleased Beats Volume 1/''DJ Premier Beat 9.mp3
+import started Sat Jun  7 19:46:37 2025
+asis /app/source/DJ Premier/''
+duplicate-keep /app/source/DJ Premier/''
+asis /app/source/DJ Premier/''; /app/converted/_/$filename.mp3; /app/converted/_/$filename.1.mp3

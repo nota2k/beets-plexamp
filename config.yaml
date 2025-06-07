@@ -1,12 +1,14 @@
-directory: /mnt/music
+directory: converted
 library: ./musiclibrary.db
 import:
-  move: no
-  copy: yes
+  move: yes
+  copy: no
   write: yes
   resume: yes
   autotag: yes
   default_action: apply
+  duplicate_action: merge
+  # incremental: yes
   languages: ["en", "pl", "fr", "de"]
   detail: yes
   log: ./log.txt
@@ -15,12 +17,12 @@ import:
 
 # Configuration spéciale pour les VA
 match:
-  strong_rec_thresh: 0.10
+  strong_rec_thresh: 0.30
   medium_rec_thresh: 0.25
   # Important : permet de traiter les morceaux individuellement
   singleton_thresh: 0.90
 
-plugins: discogs bandcamp web inline mbsync fetchart edit
+plugins: discogs bandcamp web inline mbsync fetchart edit duplicates info
 
 discogs:
   user_token: "hyDPKdjAJfqObOYfEPASiinZOTVzWxmSDXHQoMpK"
@@ -50,10 +52,10 @@ item_fields:
     return 'VA' in folder_name or 'V.A.' in folder_name or 'va' in folder_name or 'v.a.' in folder_name
 
 paths:
-  default: $artist/%if{$year,[$year],''}$album%aunique{}/%if{$track,$track-,''}$title
   singleton: Non-Album/$artist/$title
-  folder_has_va:true: Various Artists/%if{$album%aunique{},$album%aunique{},$original_folder}/%if{$track,$track-,}$artist-$title
-  comp: Compilations/$album%aunique{}/%if{$track,$track-,''}$title
+  default: "%if{$artist,%if{$year,[$year] ,}$album/%if{$track,$track - ,}%if{$title,$title,%left{$path,50}},%if{$title,$title,%left{$path,50}}}"
+  folder_has_va:true: Various Artists/%if{$album,$album,$original_folder}/%if{$track,$track-,}$artist-$title
+  comp: Compilations/$album/%if{$track,$track-,''}$title
 
 ui:
   terminal_width: 80
